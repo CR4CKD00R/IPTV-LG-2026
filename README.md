@@ -1,8 +1,8 @@
 # IPTV - LG 2026
 
-![LG webOS](https://img.shields.io/badge/LG-webOS-blue)
-![Kodi](https://img.shields.io/badge/Kodi-21-green)
-![Pluto TV](https://img.shields.io/badge/Pluto%20TV-gratis-orange)
+[![LG webOS](https://img.shields.io/badge/LG-webOS-blue)](tutorial/TUTORIAL-KODI.md)
+[![Kodi](https://img.shields.io/badge/Kodi-21-green)](tutorial/TUTORIAL-KODI.md)
+[![Pluto TV](https://img.shields.io/badge/Pluto%20TV-gratis-orange)](tutorial/TUTORIAL-PLUTO-TV-SIN-ROOT.md)
 
 Tutorial completo y listas M3U por país para ver IPTV en un TV LG con webOS, **sin necesidad de root**.
 
