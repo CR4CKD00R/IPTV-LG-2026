@@ -4,6 +4,10 @@
 
 No. Homebrew Channel, Kodi y Pluto TV funcionan sin root. Sin root no funcionan el servicio de ejecución root, desactivar telemetría, scripts de arranque, SSH ni el modo a prueba de fallos, pero para ver IPTV no los necesitas.
 
+## ¿Dónde descargo Dev Manager y PuTTY?
+
+En la carpeta `Software/` de este repo están los instaladores: `webOS.Dev.Manager_1.99.20_x64_en-US.msi` y `putty-64bit-0.85-installer.msi`. También puedes descargarlos desde sus páginas oficiales (enlaces en el README).
+
 ## ¿Qué hago si un canal da "playback failed"?
 
 La señal de ese canal está caída o bloqueada. No es un error de configuración. Prueba otro canal.
