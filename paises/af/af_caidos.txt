@@ -1,0 +1,13 @@
+Canales caídos - af
+Total: 24 | Funcionan: 14 | Caídos: 10
+
+  - 4 Afghanistan | https://4afghls.persiana.live/hls/stream.m3u8 | HTTP 000
+  - Afghan Nobel Movies (720p) | https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8 | HTTP 000
+  - Afghan Nobel TV (720p) | https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8 | HTTP 000
+  - AMC (Afghanistan) (1080p) | https://amchls.wns.live/hls/stream.m3u8 | HTTP 000
+  - Bahar TV (720p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8 | HTTP 404
+  - Hewad TV (720p) [Not 24/7] | http://51.210.199.58/hls/stream.m3u8 | HTTP 000
+  - Iman TV (480p) | https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8 | HTTP 000
+  - Lemar TV (720p) | https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8 | HTTP 403
+  - Shamshad TV [Not 24/7] | https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8 | HTTP 404
+  - Sharq Radio TV (1080p) | https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8 | HTTP 000

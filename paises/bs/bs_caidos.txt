@@ -1,0 +1,5 @@
+Canales caídos - bs
+Total: 4 | Funcionan: 2 | Caídos: 2
+
+  - Island Luck TV | https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8 | HTTP 000
+  - The Parliamentary Channel (720p) [Not 24/7] | https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8 | HTTP 404

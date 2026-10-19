@@ -1,0 +1,32 @@
+Canales caídos - co
+Total: 147 | Funcionan: 118 | Caídos: 29
+
+  - Alerta Bogota (720p) [Geo-blocked] | https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8 | HTTP 404
+  - Canal 14 Codazzi (720p) [Not 24/7] | https://eu1.servers10.com:8081/8056/index.m3u8 | HTTP 404
+  - Canal CHD | https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8 | HTTP 403
+  - Canal Mundo Vision (720p) [Not 24/7] | https://movil.ejeserver.com/live/mundovisiontv.m3u8 | HTTP 404
+  - Canal TRO (1080p) | https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8 | HTTP 403
+  - Canal TRO + (1080p) [Geo-blocked] | https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8 | HTTP 403
+  - Canal Womtv (720p) | https://live.amelbatv.co:81/womtvlive/index.m3u8 | HTTP 404
+  - Cartoon Network Latin America North Atlantic (1080p) | http://38.252.238.18:8000/play/a053/index.m3u8 | HTTP 000
+  - CNC Bugavision (720p) | https://movil.ejeserver.com/live/cncbuga.m3u8 | HTTP 404
+  - Cosmovision (720p) | https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8 | HTTP 000
+  - DSports (1080p) | http://38.187.7.252:8000/play/a03d/index.m3u8 | HTTP 000
+  - Eureka (1080p) [Geo-blocked] | https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8 | HTTP 403
+  - La Hermandad Salsera (1080p) [Not 24/7] | https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8 | HTTP 404
+  - MaxTV [Not 24/7] | https://inliveserver.com:1936/8078/8078/playlist.m3u8 | HTTP 000
+  - Nexo TV | https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8 | HTTP 404
+  - Nickelodeon Latin America (1080p) | http://15.204.246.24:8080/NickHD/index.m3u8 | HTTP 404
+  - Ondambiental TV (360p) | https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8 | HTTP 403
+  - Senal Colombia (1080p) | http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8 | HTTP 000
+  - Sin Limites (1080p) | http://170.244.209.30:8000/play/a1im/index.m3u8 | HTTP 000
+  - Tele Vid (1080p) | https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8 | HTTP 403
+  - Telecafe (Colombia) (1080p) | https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8 | HTTP 403
+  - Telecaribe Plus (720p) | https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8 | HTTP 403
+  - Telemedellin (720p) | https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8 | HTTP 403
+  - TeleQuindio (1080p) | https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8 | HTTP 404
+  - TV Rivera [Not 24/7] | https://movil.ejeserver.com/live/tvrivera.m3u8 | HTTP 404
+  - TVAgro (720p) | http://168.228.44.241:9999/play/a04n/index.m3u8 | HTTP 000
+  - TVGracia | https://vs20.live.opencaster.com/diego_57244803/index.m3u8 | HTTP 404
+  - Vallenato Internacional (720p) [Not 24/7] | https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8 | HTTP 000
+  - Vive TV (1080p) | http://192.144.113.132:1935/live/ViveTV/playlist.m3u8 | HTTP 000

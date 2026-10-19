@@ -1,0 +1,65 @@
+Canales caídos - ca
+Total: 264 | Funcionan: 199 | Caídos: 62
+
+  - Afghan Nobel Movies (720p) | https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8 | HTTP 000
+  - Afghan Nobel TV (720p) | https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8 | HTTP 000
+  - Animation+ (1080p) [Geo-blocked] | https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8 | HTTP 403
+  - Azan TV | https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8 | HTTP 404
+  - BNN Bloomberg | https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd | HTTP 400
+  - CBC Television CBAT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8 | HTTP 403
+  - CBC Television CBCT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8 | HTTP 403
+  - CBC Television CBET-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8 | HTTP 403
+  - CBC Television CBHT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8 | HTTP 403
+  - CBC Television CBKT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8 | HTTP 403
+  - CBC Television CBLT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8 | HTTP 403
+  - CBC Television CBMT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8 | HTTP 403
+  - CBC Television CBNT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8 | HTTP 403
+  - CBC Television CBOT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8 | HTTP 403
+  - CBC Television CBRT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8 | HTTP 403
+  - CBC Television CBUT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8 | HTTP 403
+  - CBC Television CBWT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8 | HTTP 403
+  - CBC Television CBXT-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8 | HTTP 403
+  - CBC Television CFYK-DT (720p) [Geo-blocked] | https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8 | HTTP 403
+  - CHCO-TV (720p) [Geo-blocked] | https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8 | HTTP 000
+  - Cottage Life (720p) | http://185.246.209.113/CottageLife/index.m3u8 | HTTP 000
+  - CPAC English (720p) | https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8 | HTTP 503
+  - CTV 2 Atlantic (720p) | http://stream.cammonitorplus.net/1731/index.m3u8 | HTTP 000
+  - CTV (Canada) CFTO-DT (720p) | http://stream.cammonitorplus.net/1712/index.m3u8 | HTTP 000
+  - CTV Life Channel (720p) | http://185.246.209.113/ANIMALPLANETHD/index.m3u8 | HTTP 000
+  - FEVA TV (1080p) | https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu | HTTP 000
+  - Fight Network (1080p) | https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8 | HTTP 000
+  - Hard Knocks (1080p) | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418 | HTTP 403
+  - Ici Radio-Canada Tele CBAFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked] | https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBKFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBLFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBOFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBUFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBVT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBWFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CBXFT-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CJBR-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CKSH-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CKTM-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8 | HTTP 403
+  - Ici Radio-Canada Tele CKTV-DT [Geo-blocked] | https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8 | HTTP 403
+  - Kidoodle.TV (1080p) | https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - LCN [Geo-blocked] | https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 | HTTP 403
+  - Legislative Assembly of British Columbia | https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8 | HTTP 000
+  - Legislative Assembly of British Columbia Committee A | https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8 | HTTP 000
+  - Legislative Assembly of Ontario | https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 | HTTP 000
+  - Legislative Assembly TV Nunavut | http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8 | HTTP 000
+  - Mr Bean Animated (1080p) | https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - New Channel (480p) | https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8 | HTTP 404
+  - New Channel Pop! (480p) | https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8 | HTTP 404
+  - Outdoor Channel (1080p) | https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8 | HTTP 403
+  - Prime Canada TV (720p) [Not 24/7] | http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8 | HTTP 404
+  - Summer of Movies | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8 | HTTP 404
+  - T+E (720p) | http://185.246.209.113/T+E/index.m3u8 | HTTP 000
+  - Transformers TV CA | https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8 | HTTP 404
+  - TSN4 (720p) | http://109.104.153.220:80/TSN-4/index.m3u8 | HTTP 000
+  - TV5 Quebec Canada (1080p) | http://23.133.220.149/TV5/index.m3u8 | HTTP 000
+  - TV5 Unis | http://23.133.220.149/Unis_TV/index.m3u8 | HTTP 000
+  - TV 16 Toronto (720p) [Not 24/7] | http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8 | HTTP 000
+  - TV Punjab (720p) [Geo-blocked] | https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8 | HTTP 401
+  - TVA (Canada) CFTM-DT [Geo-blocked] | https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8 | HTTP 403
+  - Uvagut TV (1080p) | https://hls.uvagut.tv/hls/uvagut/playlist.m3u8 | HTTP 403

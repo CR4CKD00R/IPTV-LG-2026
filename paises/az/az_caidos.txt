@@ -1,0 +1,14 @@
+Canales caídos - az
+Total: 19 | Funcionan: 8 | Caídos: 11
+
+  - Alvin Channel TV (360p) [Not 24/7] | https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8 | HTTP 404
+  - AnewZ TV | https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8 | HTTP 000
+  - Az TV (1080p) | https://str.yodacdn.net/azertv/index.m3u8 | HTTP 000
+  - CBC Sport [Geo-blocked] | https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8 | HTTP 000
+  - EL TV | https://live.eltv.az/live/eltv/playlist.m3u8 | HTTP 000
+  - Ictimai TV | https://live.itv.az/itv.m3u8 | HTTP 000
+  - Kanal 35 (720p) | https://str2.yodacdn.net/kanal35/index.m3u8 | HTTP 000
+  - Kanal S | https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8 | HTTP 404
+  - Medeniyyet TV (1080p) | https://str.yodacdn.net/medeniyyettele/index.m3u8 | HTTP 000
+  - Naxcivan TV (720p) | https://str2.yodacdn.net/ntv/video.m3u8 | HTTP 000
+  - Xezer TV (720p) | https://www.xezerxeber.az/stream/index.m3u8 | HTTP 000

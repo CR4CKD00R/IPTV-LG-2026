@@ -1,0 +1,11 @@
+Canales caídos - dk
+Total: 153 | Funcionan: 145 | Caídos: 8
+
+  - De unge modre | https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8 | HTTP 404
+  - Det sene show med Christian Fuhlendorff | https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8 | HTTP 404
+  - DR1 (1080p) [Geo-blocked] | https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8 | HTTP 403
+  - DR2 (1080p) [Geo-blocked] | https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8 | HTTP 403
+  - DR Ramasjang (720p) [Geo-blocked] | https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8 | HTTP 403
+  - KKRtv (720p) [Not 24/7] | http://stream.kkr.dk/live/kkr/playlist.m3u8 | HTTP 000
+  - KTO (504p) | http://145.239.5.177/354/index.m3u8 | HTTP 403
+  - TV Storbyen (720p) [Not 24/7] | https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8 | HTTP 000

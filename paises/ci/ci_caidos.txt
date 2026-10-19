@@ -1,0 +1,11 @@
+Canales caídos - ci
+Total: 19 | Funcionan: 11 | Caídos: 8
+
+  - A12 TV | https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8 | HTTP 403
+  - Afro Magic Channel | https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8 | HTTP 404
+  - Ecclesia TV (Ivory Coast) | https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8 | HTTP 404
+  - Exploits TV | https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8 | HTTP 404
+  - Guide Love TV (720p) | https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8 | HTTP 404
+  - LM TV French (720p) [Not 24/7] | https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8 | HTTP 404
+  - Novela Channel (720p) [Not 24/7] | https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8 | HTTP 404
+  - RTI 1 (1080p) | https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8 | HTTP 404

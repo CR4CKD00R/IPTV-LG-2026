@@ -1,0 +1,20 @@
+Canales caídos - cr
+Total: 67 | Funcionan: 50 | Caídos: 17
+
+  - Canal 2 (Costa Rica) (720p) [Not 24/7] | https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8 | HTTP 000
+  - Canal 4 (Costa Rica) (720p) | https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8 | HTTP 000
+  - Canal 6 (Costa Rica) (720p) | https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8 | HTTP 000
+  - Canal 11 (Costa Rica) (720p) | https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8 | HTTP 000
+  - Cartago Medios TV (720p) [Not 24/7] | https://acceso.mediosdecostarica.com:3511/stream/play.m3u8 | HTTP 000
+  - Extra TV 42 (720p) | https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8 | HTTP 000
+  - GAMTV.cr (720p) | https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8 | HTTP 403
+  - Garabito TV (720p) | https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8 | HTTP 404
+  - Quince UCR (720p) [Not 24/7] | http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8 | HTTP 404
+  - Radio Turrialba TV Sports (720p) [Not 24/7] | https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8 | HTTP 000
+  - Retrox TV (720p) [Not 24/7] | https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8 | HTTP 404
+  - RTTV (720p) [Not 24/7] | https://cloudvideo.servers10.com:19360/8212/8212.m3u8 | HTTP 000
+  - SOY Plancha TV (720p) | https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8 | HTTP 404
+  - Tigo Sports (Costa Rica) (720p) [Geo-blocked] | https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8 | HTTP 404
+  - Trivision 36 (720p) | https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR= | HTTP 403
+  - Video Tour Channel | https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8 | HTTP 404
+  - Zona Music TV (1080p) | https://acceso.radiosportstv.online:3022/stream/play.m3u8 | HTTP 000

@@ -1,0 +1,5 @@
+Canales caídos - bf
+Total: 6 | Funcionan: 4 | Caídos: 2
+
+  - Canal 3 (Burkina Faso) | https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8 | HTTP 403
+  - Impact TV (Burkina Faso) | https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8 | HTTP 000

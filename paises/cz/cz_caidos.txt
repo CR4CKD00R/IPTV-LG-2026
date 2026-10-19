@@ -1,0 +1,7 @@
+Canales caídos - cz
+Total: 100 | Funcionan: 96 | Caídos: 4
+
+  - AXN White (United States) | https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8 | HTTP 000
+  - Canal+ Action Europe Czechia | http://46.149.191.219:9106/play/a01g | HTTP 000
+  - RTM+ (720p) [Not 24/7] | https://www.rtmplus.cz/live/1-playlist.m3u8 | HTTP 000
+  - Televize Prerov (1080p) [Geo-blocked] | https://173.212.247.21/live/tvprerov.m3u8 | HTTP 000

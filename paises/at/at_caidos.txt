@@ -1,0 +1,23 @@
+Canales caídos - at
+Total: 117 | Funcionan: 97 | Caídos: 20
+
+  - Antenne Vorarlberg (720p) [Not 24/7] | https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8 | HTTP 000
+  - arte (Germany) (720p) [Geo-blocked] | https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8 | HTTP 403
+  - ATV (Austria) HD (1080p) | http://212.186.45.34:9981/stream/channelid/692531719?profile=pass | HTTP 000
+  - Frasier: Beruhmte Gaste | https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8 | HTTP 404
+  - K19 | https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8 | HTTP 403
+  - Love The Planet DE (1080p) [Geo-blocked] | https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - P3tv (720p) [Not 24/7] | http://p3-6.mov.at:1935/live/weekstream/master.m3u8 | HTTP 000
+  - Pluto TV Comedy Therapie | https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8 | HTTP 404
+  - Pluto TV Ferne Galaxien | https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8 | HTTP 404
+  - Pluto TV Fran: Beste Mama-Momente | https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8 | HTTP 404
+  - Pluto TV Laughs in Spanish | https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8 | HTTP 404
+  - Pluto TV Weihnachten im Sommer | https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8 | HTTP 404
+  - Pluto TV Worst of Bundy | https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8 | HTTP 404
+  - Rakuten TV Action Movies Austria (720p) | https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8 | HTTP 504
+  - Rakuten TV Comedy Movies Austria (720p) | https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8 | HTTP 504
+  - Rakuten TV Drama Movies Austria (720p) | https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8 | HTTP 504
+  - Rakuten TV Family Movies Austria (720p) | https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8 | HTTP 504
+  - ServusTV (1080p) [Geo-blocked] | https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8 | HTTP 403
+  - The Cycling Channel | https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8 | HTTP 000
+  - Uppera Balkan (720p) [Geo-blocked] | http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8 | HTTP 000

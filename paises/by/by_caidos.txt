@@ -1,0 +1,8 @@
+Canales caídos - by
+Total: 26 | Funcionan: 18 | Caídos: 5
+
+  - +TV (576p) [Geo-blocked] | https://stream.plustv.by/plustv-web/plustv/playlist.m3u8 | HTTP 000
+  - First Music Channel Russia (1080p) | http://hls127.freeott.top:8080/1muz_HD/video.m3u8 | HTTP 000
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - TNT4 International (576p) | https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv | HTTP 403
+  - TNT International SD (480p) | https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8 | HTTP 404

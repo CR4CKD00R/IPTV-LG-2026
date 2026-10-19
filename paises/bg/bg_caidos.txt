@@ -1,0 +1,59 @@
+Canales caídos - bg
+Total: 74 | Funcionan: 18 | Caídos: 56
+
+  - 7/8 TV | http://213.91.179.28:8000/play/a0cn | HTTP 404
+  - 24Kitchen Bulgary (1080p) | http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8 | HTTP 000
+  - 100% Auto Moto TV (406p) [Not 24/7] | http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8 | HTTP 000
+  - AMC Europe Bulgary (576p) | http://hls127.freeott.top:8080/BG_AMC/video.m3u8 | HTTP 000
+  - AXN Black (United States) (576p) | http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8 | HTTP 000
+  - AXN CEE Bulgary | http://85.11.144.9:4222/AXN | HTTP 403
+  - AXN White (United States) Bulgaria (576p) | http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8 | HTTP 000
+  - Bloomberg TV Bulgaria | http://213.91.179.28:8000/play/a04m | HTTP 404
+  - BNT 1 (1080p) | https://shift03.isp.bg/BNT1_HD/index.m3u8 | HTTP 000
+  - BNT 2 (1080p) | https://shift03.isp.bg/BNT2_HD/index.m3u8 | HTTP 000
+  - BNT 3 (1080p) | https://shift03.isp.bg/BNT3_HD/index.m3u8 | HTTP 000
+  - BNT 4 (1080p) | https://shift03.isp.bg/BNT4_HD/index.m3u8 | HTTP 000
+  - BOX TV | http://213.91.179.28:8000/play/a0an | HTTP 404
+  - bTV | http://213.91.179.28:8000/play/a03w | HTTP 404
+  - bTV Action | http://213.91.179.28:8000/play/a04n | HTTP 404
+  - bTV Cinema | http://213.91.179.28:8000/play/a04i | HTTP 404
+  - bTV Comedy | http://213.91.179.28:8000/play/a04k | HTTP 404
+  - bTV Lady | http://213.91.179.28:8000/play/a05i | HTTP 404
+  - Bulgaria On Air | http://213.91.179.28:8000/play/a05x | HTTP 404
+  - CineStar 1 Bulgaria | http://213.91.179.28:8000/play/a05h | HTTP 404
+  - Diema | http://213.91.179.28:8000/play/a045 | HTTP 404
+  - Diema Family | http://213.91.179.28:8000/play/a047 | HTTP 404
+  - Disney Channel (Bulgaria) | http://213.91.179.28:8000/play/a059 | HTTP 404
+  - Eurocom (360p) | https://live.ecomservice.bg/hls/stream.m3u8 | HTTP 403
+  - Euronews Bulgaria | http://213.91.179.28:8000/play/a05e | HTTP 404
+  - FILMBOX+ Emotion Bulgaria | http://213.91.179.28:8000/play/a04r | HTTP 404
+  - FILMBOX+ Love & Crime Bulgaria (720p) | http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8 | HTTP 000
+  - FILMBOX+ One Bulgaria (576p) | http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8 | HTTP 000
+  - H2 | http://213.91.179.28:8000/play/a03r | HTTP 404
+  - History (Bulgaria) | http://213.91.179.28:8000/play/a0c1 | HTTP 404
+  - Hit Mix Music | http://213.91.179.28:8000/play/a0cl | HTTP 404
+  - Hope Channel Bulgaria | https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8 | HTTP 000
+  - ID | http://213.91.179.28:8000/play/a0cf | HTTP 404
+  - Kino Nova | http://213.91.179.28:8000/play/a041 | HTTP 404
+  - Max Sport 1 (1080p) | http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8 | HTTP 000
+  - Max Sport 2 (1080p) | http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8 | HTTP 000
+  - Max Sport 3 (1080p) | http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8 | HTTP 000
+  - Max Sport 4 (1080p) | http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8 | HTTP 000
+  - Movie Star (720p) | https://shift03.isp.bg/MovieStar/index.m3u8 | HTTP 000
+  - National Geographic (Bulgaria) (1080p) | http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8 | HTTP 000
+  - National Geographic Wild (Bulgaria) (1080p) | http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8 | HTTP 000
+  - Nickelodeon (Bulgaria) (576p) | http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8 | HTTP 000
+  - Nostalgia (Bulgaria) | http://213.91.179.28:8000/play/a03q | HTTP 404
+  - Nova (Bulgaria) | http://213.91.179.28:8000/play/a03l | HTTP 404
+  - Nova News | http://213.91.179.28:8000/play/a063 | HTTP 404
+  - RING | http://213.91.179.28:8000/play/a06e | HTTP 404
+  - Star Channel (Bulgaria) (720p) | http://hls127.freeott.top:8080/BG_FOX/video.m3u8 | HTTP 000
+  - Star Crime (Bulgaria) (720p) | http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8 | HTTP 000
+  - Star Life (Bulgaria) (720p) | http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8 | HTTP 000
+  - TV1000 | http://85.14.32.26:8800/udp/239.100.10.100:5000 | HTTP 000
+  - TV Rodina (1080p) | https://shift03.isp.bg/RodinaTV/index.m3u8 | HTTP 000
+  - Viasat Explore (Bulgaria) (1080p) | https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8 | HTTP 000
+  - Viasat History (Bulgaria) (1080p) | https://shift03.isp.bg/ViasatHistory_HD/index.m3u8 | HTTP 000
+  - Viasat Kino Bulgaria (1080p) | http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8 | HTTP 000
+  - Viasat Nature (Bulgaria) (1080p) | https://shift03.isp.bg/ViasatNature_HD/index.m3u8 | HTTP 000
+  - Vivacom Arena (720p) | http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8 | HTTP 000

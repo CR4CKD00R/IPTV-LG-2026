@@ -1,0 +1,7 @@
+Canales caídos - aw
+Total: 12 | Funcionan: 8 | Caídos: 4
+
+  - Balchi TV | https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8 | HTTP 404
+  - Nos Isla TV (1080p) [Not 24/7] | https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8 | HTTP 503
+  - Telearuba (1080p) [Not 24/7] | https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8 | HTTP 503
+  - VIP TV (720p) | https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8 | HTTP 000

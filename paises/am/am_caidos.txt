@@ -1,0 +1,4 @@
+Canales caídos - am
+Total: 8 | Funcionan: 7 | Caídos: 1
+
+  - Armenia 1 (1080p) | https://ifl01eu-new.bozztv.com/am1abr/index.m3u8 | HTTP 403
