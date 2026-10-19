@@ -1,0 +1,4 @@
+Canales caídos - gg
+Total: 1 | Funcionan: 0 | Caídos: 1
+
+  - BBC One Channel Islands (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd | HTTP 403

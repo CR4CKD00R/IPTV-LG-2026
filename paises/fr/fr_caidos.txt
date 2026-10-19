@@ -1,0 +1,55 @@
+Canales caídos - fr
+Total: 214 | Funcionan: 161 | Caídos: 52
+
+  - 6ter (1080p) | http://145.239.5.177/314/index.m3u8 | HTTP 403
+  - AB1 (720p) | http://145.239.5.177/332/index.m3u8 | HTTP 403
+  - arte (France) (720p) | http://145.239.5.177/300/index.m3u8 | HTTP 403
+  - C Star (1080p) | http://145.239.5.177/361/index.m3u8 | HTTP 403
+  - Canal+ (720p) | http://151.80.18.177:86/Canal+_HD/index.m3u8 | HTTP 000
+  - Canal+ Cinemas (720p) | http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8 | HTTP 000
+  - Canal+ Sport 360 | https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8 | HTTP 404
+  - Cap Terre (1080p) | http://145.239.5.177/359a/index.m3u8 | HTTP 403
+  - Cine+ Classic | http://99.27.51.147/CineClassic/index.m3u8 | HTTP 000
+  - Cine+ Emotion (720p) | http://145.239.5.177/337/index.m3u8 | HTTP 403
+  - Cine+ Frisson (1080p) | http://99.27.51.147:8080/CineFrisson/index.m3u8 | HTTP 000
+  - Clubbing TV France | https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8 | HTTP 504
+  - Disney Jr. (France) (1080p) | http://151.80.18.177:86/Disney_Junior_HD/index.m3u8 | HTTP 000
+  - Foot+ | http://145.239.5.177/556a/index.m3u8 | HTTP 403
+  - France 3 | http://85.14.32.26:8800/udp/239.100.10.144:5000 | HTTP 000
+  - France 4 | http://176.65.146.100:8047/play/a074/index.m3u8 | HTTP 000
+  - France 4 HD (1080p) | https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 | HTTP 403
+  - France 5 (720p) | http://145.239.5.177/305/index.m3u8 | HTTP 403
+  - Gong (1080p) | https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8 | HTTP 403
+  - KTO (504p) | http://145.239.5.177/354/index.m3u8 | HTTP 403
+  - LCI HD (1080p) | http://145.239.5.177/368/index.m3u8 | HTTP 403
+  - M6 Music (720p) | http://145.239.5.177/320/index.m3u8 | HTTP 403
+  - MCM Pop (580p) | http://188.115.15.121:8000/play/a014 | HTTP 000
+  - Mezzo (576p) | http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0: | HTTP 000
+  - Moselle TV (720p) [Not 24/7] | https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8 | HTTP 404
+  - MTV (France) | http://99.27.51.147:8080/MTV/index.m3u8 | HTTP 000
+  - Museum TV French [Geo-blocked] | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8 | HTTP 000
+  - Nickelodeon (France) (504p) | http://151.80.18.177:86/Nickelodeon_FR/index.m3u8 | HTTP 000
+  - Nickelodeon Junior (1080p) | http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 | HTTP 000
+  - Nollywood TV (720p) | http://145.239.5.177/148/index.m3u8 | HTTP 403
+  - NRJ Hits | https://test.946985.filegear-sg.me/proxy/a23981548880f405 | HTTP 000
+  - Pluto TV Comedie | https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8 | HTTP 500
+  - RFM TV [Not 24/7] | http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8 | HTTP 409
+  - RTL9 (720p) | http://145.239.5.177/308/index.m3u8 | HTTP 403
+  - SciFi (720p) | http://41.205.93.154/SYFY/index.m3u8 | HTTP 404
+  - Serie Club (720p) | http://145.239.5.177/355/index.m3u8 | HTTP 403
+  - Syfy | http://99.27.51.147:8080/SYFY/index.m3u8 | HTTP 000
+  - TeleGohelle | https://videas.agglo-lenslievin.fr/index.m3u8 | HTTP 000
+  - Teva (1080p) | http://145.239.5.177/356/index.m3u8 | HTTP 403
+  - TF1 (576p) | https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8 | HTTP 404
+  - TF1 HD (720p) | http://151.80.18.177:86/TF1_HD/index.m3u8 | HTTP 000
+  - TFX (720p) | http://145.239.5.177/315/index.m3u8 | HTTP 403
+  - TiVi5 Monde [Geo-blocked] | https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8 | HTTP 403
+  - TMC (1080p) | http://151.80.18.177:86/TMC/index.m3u8 | HTTP 000
+  - Trace Brazuca (1080p) | https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - TV5Monde France Belgium Switzerland Monaco | http://5.78.65.164/TV5Monde/index.m3u8 | HTTP 403
+  - TV5Monde Style | http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg | HTTP 502
+  - TV78 (720p) | https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 | HTTP 404
+  - TV Breizh (1080p) | http://145.239.5.177/318/index.m3u8 | HTTP 403
+  - TVR (France) (720p) | https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8 | HTTP 404
+  - TZiK [Not 24/7] | https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8 | HTTP 000
+  - ViaOccitanie (540p) [Not 24/7] | https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8 | HTTP 000

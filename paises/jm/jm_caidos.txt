@@ -1,0 +1,6 @@
+Canales caídos - jm
+Total: 7 | Funcionan: 4 | Caídos: 3
+
+  - Fame95 FM (480p) | https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8 | HTTP 400
+  - Jamaica Online TV (1080p) [Not 24/7] | https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8 | HTTP 000
+  - Jamaica Travel Channel (720p) | https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8 | HTTP 404

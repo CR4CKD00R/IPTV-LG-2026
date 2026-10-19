@@ -1,0 +1,14 @@
+Canales caídos - ht
+Total: 27 | Funcionan: 16 | Caídos: 11
+
+  - Dega TV (720p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8 | HTTP 404
+  - MTV (France) | http://99.27.51.147:8080/MTV/index.m3u8 | HTTP 000
+  - Netalkole TV (720p) [Not 24/7] | https://watch.haitilive.net/naktvhd/index.m3u8 | HTTP 000
+  - Nickelodeon Junior (1080p) | http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 | HTTP 000
+  - Radio Tele Amen FM (360p) [Not 24/7] | http://184.173.179.163:1935/daniel/daniel/playlist.m3u8 | HTTP 000
+  - Radio Tele Kajou (480p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8 | HTTP 404
+  - Radio Tele Wisdom (360p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8 | HTTP 404
+  - Radio Television Shilo (720p) [Not 24/7] | https://watch.haitilive.net/freehb/rtvs/index.m3u8 | HTTP 404
+  - Tele Haiti (1088p) [Not 24/7] | http://66.175.238.147:1935/live/myStream/playlist.m3u8 | HTTP 000
+  - TeleMIX (720p) | https://haititivi.com/haiti/telemix1/index.m3u8 | HTTP 000
+  - TNH (720p) | https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8 | HTTP 403

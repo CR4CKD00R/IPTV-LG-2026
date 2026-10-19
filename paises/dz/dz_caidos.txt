@@ -1,0 +1,6 @@
+Canales caídos - dz
+Total: 8 | Funcionan: 5 | Caídos: 3
+
+  - AL24 News | https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8 | HTTP 404
+  - Elwatania TV (1080i) | https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8 | HTTP 000
+  - TV4 (Algeria) (720p) | http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0 | HTTP 000

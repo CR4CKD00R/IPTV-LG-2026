@@ -1,0 +1,81 @@
+Canales caídos - it
+Total: 322 | Funcionan: 244 | Caídos: 78
+
+  - 7 Gold (1080p) | https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8 | HTTP 404
+  - 7 RadioVisione (720p) | https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8 | HTTP 404
+  - 20 [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8 | HTTP 000
+  - Adnkronos (720p) | https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8 | HTTP 000
+  - Alma TV (576p) | http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8 | HTTP 000
+  - Antenna Sud (720p) | https://live.antennasudwebtv.it:9443/hls/vod.m3u8 | HTTP 000
+  - Antenna Sud Extra (720p) | https://live.antennasudwebtv.it:9443/hls/vod92.m3u8 | HTTP 000
+  - Antenna Tre (480p) [Geo-blocked] | https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8 | HTTP 000
+  - Canale 5 [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8 | HTTP 000
+  - Canale 5 HD | https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8 | HTTP 403
+  - Canale Dieci (540p) [Not 24/7] | http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8 | HTTP 000
+  - Cine34 [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8 | HTTP 000
+  - Cine34 HD (1080p) | https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8 | HTTP 403
+  - Donna TV (480p) | https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8 | HTTP 000
+  - eTv Marche (720p) | https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8 | HTTP 404
+  - eTv Rete 7 (720p) | https://live.ipstream.it/etv/etv.stream/playlist.m3u8 | HTTP 404
+  - Fano TV (1080p) | https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8 | HTTP 000
+  - GO-TV Canale 163 (720p) | https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8 | HTTP 000
+  - Gold TV (576p) | https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8 | HTTP 000
+  - Gold TV Sat (576p) | https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8 | HTTP 000
+  - Iris [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8 | HTTP 000
+  - Iris HD (1080p) | https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8 | HTTP 403
+  - Italia 1 [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8 | HTTP 000
+  - Italia 7 (576p) | http://151.0.207.99:1935/italia7/italia7/playlist.m3u8 | HTTP 000
+  - La5 [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8 | HTTP 000
+  - LA7d (720p) | https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8 | HTTP 403
+  - Lazio Style Channel HD (720p) | https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8 | HTTP 403
+  - Lazio TV (576p) | http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8 | HTTP 000
+  - Love The Planet IT (1080p) [Geo-blocked] | https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - Mediaset Extra [Geo-blocked] | https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8 | HTTP 000
+  - MediterraniaTV (1080p) | https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8 | HTTP 000
+  - Nickelodeon (Italy) | https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8 | HTTP 403
+  - Passione Lotto (300p) | http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8 | HTTP 000
+  - Pluto TV Film Ancora Piu Romantici | https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8 | HTTP 404
+  - Pluto TV Notti di Sangue | https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8 | HTTP 404
+  - Pluto TV Notti di Terrore | https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8 | HTTP 404
+  - Prima TV (Italy) (720p) | https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8 | HTTP 404
+  - PrimAntenna TV (720p) | https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8 | HTTP 404
+  - Rai News 24 (720p) | https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8 | HTTP 403
+  - Retemia (720p) [Not 24/7] | https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8 | HTTP 404
+  - Reteveneta (480p) | https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8 | HTTP 404
+  - Rossini TV (720p) | https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8 | HTTP 000
+  - RTC Telecalabria (720p) [Not 24/7] | http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8 | HTTP 000
+  - Sportitalia 24 (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8 | HTTP 403
+  - Sportitalia Motori (720p) [Geo-blocked] | https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8 | HTTP 403
+  - Sportitalia Solocalcio (1080p) | https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8 | HTTP 403
+  - Super J TV Teramo (720p) | https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8 | HTTP 000
+  - Super TV Oristano (720p) [Not 24/7] | http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8 | HTTP 000
+  - SuperTennis (1080p) | https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8 | HTTP 403
+  - T9 (288p) | https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8 | HTTP 000
+  - Teatro TV (720p) | https://m.iostream.it/hls/teatrotv/teatrotv.m3u8 | HTTP 000
+  - Tele Pegaso Catania (404p) [Not 24/7] | https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8 | HTTP 404
+  - Tele Quattro (720p) | https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8 | HTTP 404
+  - Tele Radio Sciacca (240p) [Not 24/7] | http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8 | HTTP 404
+  - Teleacras (576p) | https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8 | HTTP 000
+  - Telegranda (720p) [Not 24/7] | http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8 | HTTP 000
+  - Telejato (720p) | https://telejato.liberotratto.com/hls/0/stream.m3u8 | HTTP 000
+  - Teleliberta (486p) [Not 24/7] | https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8 | HTTP 000
+  - teleMonteneve (480p) [Not 24/7] | http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8 | HTTP 404
+  - Telenord (Italy) (576p) [Not 24/7] | https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8 | HTTP 404
+  - Telepavia (720p) | http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8 | HTTP 404
+  - Telestense (720p) | https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8 | HTTP 000
+  - Telesud Trapani (720p) [Not 24/7] | http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8 | HTTP 404
+  - Televallo (576p) | https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8 | HTTP 000
+  - TeleVenezia (576p) | https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8 | HTTP 000
+  - Top Crime [Geo-blocked] | https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8 | HTTP 000
+  - Trentino TV (720p) [Not 24/7] | https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8 | HTTP 000
+  - TSN TeleSondrio News (480p) [Not 24/7] | https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8 | HTTP 000
+  - TV7 Triveneta (562p) | https://www.gruppotv7.com:8090/hls/ireporter.m3u8 | HTTP 000
+  - TV Sei (576p) [Not 24/7] | http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8 | HTTP 404
+  - TV Yes Italia (720p) | https://stream1.aswifi.it/radioyes/live/index.m3u8 | HTTP 404
+  - TVL (720p) [Not 24/7] | https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8 | HTTP 404
+  - TVRS (576p) [Not 24/7] | http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8 | HTTP 404
+  - Twentyseven HD (1080p) [Geo-blocked] | https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd | HTTP 403
+  - Vera TV (1080p) [Not 24/7] | http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8 | HTTP 404
+  - Video Rola (1080p) | https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8 | HTTP 403
+  - Videolina Sardegna (404p) [Not 24/7] | http://livestreaming.videolina.it/live/Videolina/playlist.m3u8 | HTTP 000
+  - Wedding TV | https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8 | HTTP 000

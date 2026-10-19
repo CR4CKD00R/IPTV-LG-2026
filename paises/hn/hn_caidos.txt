@@ -1,0 +1,32 @@
+Canales caídos - hn
+Total: 78 | Funcionan: 49 | Caídos: 29
+
+  - Alfa & Omega Vision (480p) [Not 24/7] | https://srv.panelcast.net/dorian/dorian/playlist.m3u8 | HTTP 000
+  - Aviva TV (288p) [Not 24/7] | https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8 | HTTP 404
+  - Canal 11 (Honduras) (1080p) | http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8 | HTTP 000
+  - Canal 32 STO (720p) [Not 24/7] | https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8 | HTTP 404
+  - Canal 51 | https://live.cn51hn.com/live/cn51.m3u8 | HTTP 403
+  - Cholusat Sur 36 (214p) [Not 24/7] | http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8 | HTTP 000
+  - CVA TV (480p) [Not 24/7] | http://190.124.161.21:8086/cvatv/live.m3u8 | HTTP 000
+  - Globo TV (Honduras) | https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8 | HTTP 000
+  - Inmaculada TV (720p) [Not 24/7] | https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8 | HTTP 404
+  - Jehova TV | https://mp.panelchs.com:1936/8038/8038/playlist.m3u8 | HTTP 000
+  - La 98.1 TV (720p) [Not 24/7] | https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8 | HTTP 000
+  - Litoral Atlantico HD (720p) | https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8 | HTTP 000
+  - LTV (Honduras) (720p) [Not 24/7] | https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8 | HTTP 404
+  - Mas Noticias Television (720p) | https://www.amixtv.com:8081/mntvh/index.m3u8 | HTTP 000
+  - Maya TV | https://media.streambrothers.com:19360/8036/8036.m3u8 | HTTP 404
+  - Picosa TV (720p) | http://45.167.2.101:8000/play/a0sd/index.m3u8 | HTTP 000
+  - Q'hubo TV (410p) [Not 24/7] | https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8 | HTTP 404
+  - San Ignacio TV (720p) | https://amixtv.live:3753/live/sitvlive.m3u8 | HTTP 000
+  - Sercano TV (720p) [Not 24/7] | http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8 | HTTP 000
+  - Talanga TV Canal 39 (480p) [Not 24/7] | https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8 | HTTP 000
+  - TDV TV (240p) | https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8 | HTTP 000
+  - Telavision (720p) | https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8 | HTTP 000
+  - Telecadena 7 y 4 (576p) | http://45.167.2.101:8000/play/a07n/index.m3u8 | HTTP 000
+  - TeleDanli (720p) [Not 24/7] | https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8 | HTTP 404
+  - Television Comayagua Canal 40 (720p) [Not 24/7] | https://mediacp.us:8081/8034/index.m3u8 | HTTP 000
+  - TSi | http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8 | HTTP 000
+  - UNAH UTV (360p) [Not 24/7] | https://live-utv.unah.edu.hn/web/salida.m3u8 | HTTP 000
+  - VTV (Honduras) (480p) [Not 24/7] | https://d3q93l5bumjyoq.cloudfront.net/index.m3u8 | HTTP 000
+  - Waldivision Internacional | https://media.streambrothers.com:19360/8308/8308.m3u8 | HTTP 404

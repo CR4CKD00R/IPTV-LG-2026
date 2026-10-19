@@ -1,0 +1,4 @@
+Canales caídos - la
+Total: 12 | Funcionan: 11 | Caídos: 1
+
+  - RTM ASEAN | https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8 | HTTP 403

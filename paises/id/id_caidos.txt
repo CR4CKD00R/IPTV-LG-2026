@@ -1,0 +1,66 @@
+Canales caídos - id
+Total: 175 | Funcionan: 112 | Caídos: 63
+
+  - AFBTV Kupang (1080p) [Not 24/7] | https://afbtv.siar.us/live/afbtv.m3u8 | HTTP 000
+  - Ajwa TV (1080p) | http://ikitv.sqn.at:8000/play/a00j/index.m3u8 | HTTP 404
+  - AKTV (1080p) [Not 24/7] | https://akativi.siar.us/live/akativi.m3u8 | HTTP 404
+  - Al Wafa Tarim (720p) | https://ammedia.siar.us/ammedia/live/playlist.m3u8 | HTTP 000
+  - Al-Iman TV (Indonesia) (720p) | https://tv.aliman.id/aliman/live.m3u8 | HTTP 404
+  - ANTV (Indonesia) (720p) | http://103.58.160.157:8278/720-ANTV/playlist.m3u8 | HTTP 401
+  - Astha TV (1080p) [Not 24/7] | https://hgmtv.com:19360/asthatv/asthatv.m3u8 | HTTP 404
+  - Batam TV (480p) [Not 24/7] | http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - BeritaSatu (1080p) | https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8 | HTTP 000
+  - Biznet Adventure (1080p) | http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8 | HTTP 000
+  - Biznet Kids (1080p) | http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8 | HTTP 000
+  - Biznet Lifestyle (1080p) | http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8 | HTTP 000
+  - BN Channel (1080p) | http://ikitv.sqn.at:8000/play/a01l/index.m3u8 | HTTP 404
+  - BTV (Indonesia) [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8 | HTTP 000
+  - Celebes TV [Not 24/7] | https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8 | HTTP 000
+  - Channel Jowo [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8 | HTTP 000
+  - Dens Knowledge [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8 | HTTP 000
+  - Dens Life & Style [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8 | HTTP 000
+  - Dens Play [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8 | HTTP 000
+  - Dens ShowBiz [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8 | HTTP 000
+  - dTVi | https://e.siar.us/live/dtvi.m3u8 | HTTP 404
+  - Fajar TV (720p) [Not 24/7] | http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - FTV (Taiwan) (720p) [Not 24/7] | http://seb.sason.top/ptv/ftv.php?id=ms | HTTP 000
+  - GTV (Indonesia) HD (1080p) | http://202.150.172.59/GTVHD/index.m3u8 | HTTP 403
+  - Huma Betang TV (720p) [Not 24/7] | https://v3.siar.us/humabetangtv/live/playlist.m3u8 | HTTP 404
+  - Indosiar HD (1080p) | http://202.150.172.59/Indosiar/index.m3u8 | HTTP 403
+  - iNews HD (1080p) | http://202.150.172.59/iNews/index.m3u8 | HTTP 403
+  - Jak TV [Geo-blocked] | https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8 | HTTP 000
+  - Jambi TV | https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8 | HTTP 000
+  - Jogja TV (720p) [Not 24/7] | https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8 | HTTP 404
+  - JTV Madura (480p) [Not 24/7] | http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - Kids TV | http://origin5.mediacdn.ru/live/kidstv/index.m3u8 | HTTP 503
+  - Kompas TV [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8 | HTTP 000
+  - KTV (Indonesia) (720p) | https://flv.intechmedia.net/live/ch118.m3u8 | HTTP 404
+  - Matrix TV Yogyakarta (720p) | https://stream.matrixtv.id/hls/0/stream.m3u8 | HTTP 000
+  - MDTV (1080p) | https://wahyu1ptv.pages.dev/MDTV-HD.m3u8 | HTTP 404
+  - MGI TV (720p) [Geo-blocked] | https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8 | HTTP 000
+  - MNCTV HD | http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8 | HTTP 403
+  - Moji [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8 | HTTP 000
+  - Music Information Channel (720p) | https://mic.siar.us/mic/live/mic.m3u8 | HTTP 000
+  - My Cinema [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8 | HTTP 000
+  - My Family [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8 | HTTP 000
+  - My Kidz (720p) | https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd | HTTP 403
+  - Online TV Nusantara (720p) [Not 24/7] | https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8 | HTTP 404
+  - Padang TV (720p) [Not 24/7] | http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - RCTI HD (1080p) | http://202.150.172.59/RCTIHD/index.m3u8 | HTTP 403
+  - RCTV (Indonesia) (720p) [Not 24/7] | https://v10.siar.us/rctv/live/playlist.m3u8 | HTTP 000
+  - RTM ASEAN | https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8 | HTTP 403
+  - SCTV | http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8 | HTTP 403
+  - Selaparang TV (720p) [Not 24/7] | https://selaparangtv.siar.us/live/selaparangtv.m3u8 | HTTP 404
+  - Semarang TV (720p) | http://116.254.112.74/hls/cakralive.m3u8 | HTTP 000
+  - Simpang5 TV (360p) [Not 24/7] | http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - Sriwijaya TV (720p) [Not 24/7] | https://sriwijayatv.siar.us/live/sriwijayatv.m3u8 | HTTP 404
+  - Sultra TV (720p) [Not 24/7] | http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8 | HTTP 404
+  - Surau TV (720p) | http://ikitv.sqn.at:8000/play/a00l/index.m3u8 | HTTP 404
+  - Tegar TV Lampung (480p) | http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8 | HTTP 404
+  - TV Mu (720p) [Not 24/7] | https://e.siar.us/live/tvmu.m3u8 | HTTP 404
+  - TVKU (720p) | https://tvku.tv/hlsstream/hls/live.m3u8 | HTTP 404
+  - tvOne [Geo-blocked] | https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8 | HTTP 000
+  - TVR Parlemen (720p) [Not 24/7] | http://103.18.181.69:1935/golive/livestream/playlist.m3u8 | HTTP 000
+  - TVRI (480p) [Geo-blocked] | https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8 | HTTP 000
+  - TVRI Sport (1080p) | http://202.150.172.59/TVRISport/index.m3u8 | HTTP 403
+  - VTV (Indonesia) HD (1080p) | http://ikitv.sqn.at:8000/play/a023/index.m3u8 | HTTP 404

@@ -1,0 +1,34 @@
+Canales caídos - ec
+Total: 110 | Funcionan: 78 | Caídos: 31
+
+  - Capricho TV (720p) [Not 24/7] | https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8 | HTTP 404
+  - Curiquingue TV (720p) | https://video2.lhdserver.es/pjtv/live.m3u8 | HTTP 404
+  - DSports (1080p) | http://38.187.7.252:8000/play/a03d/index.m3u8 | HTTP 000
+  - Duende Tv (720p) [Not 24/7] | https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8 | HTTP 000
+  - Duran TV (480p) [Not 24/7] | https://cloudvideo.servers10.com:8081/8074/index.m3u8 | HTTP 404
+  - EcuaMundo Radio TV (720p) [Not 24/7] | https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8 | HTTP 000
+  - Ecuavisa (1080p) | http://45.171.108.253:8888/ECUAVISA/index.m3u8 | HTTP 404
+  - GM7 Digital [Not 24/7] | https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8 | HTTP 000
+  - Imperio TV Canal 6 (720p) | https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8 | HTTP 000
+  - Inti TV (1080p) [Not 24/7] | https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8 | HTTP 000
+  - KCHTV (1080p) | http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8 | HTTP 404
+  - La Perla Radio TV (720p) [Not 24/7] | https://eu1.servers10.com:8081/8068/index.m3u8 | HTTP 404
+  - Majestad Television (720p) | https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8 | HTTP 404
+  - Marca TV (1080p) | http://200.7.219.221:8088/live/livetv/index.m3u8 | HTTP 000
+  - Mario Pinto TV (720p) [Not 24/7] | https://eu1.servers10.com:8081/8028/index.m3u8 | HTTP 404
+  - Multicanal Catamayo (720p) [Not 24/7] | https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8 | HTTP 000
+  - Nickelodeon Latin America (1080p) | http://15.204.246.24:8080/NickHD/index.m3u8 | HTTP 404
+  - Ondas Quevedenas TV (720p) [Not 24/7] | https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8 | HTTP 403
+  - Pantalla Clasica EC (512p) [Not 24/7] | https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8 | HTTP 000
+  - Plus TV (Ecuador) (720p) [Not 24/7] | https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8 | HTTP 000
+  - Radio Impacto 2 (288p) [Not 24/7] | https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8 | HTTP 000
+  - RTS (1080p) | http://45.171.108.253:8888/RTS/index.m3u8 | HTTP 404
+  - RTV (Ecuador) (720p) [Not 24/7] | https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8 | HTTP 404
+  - Teleamazonas (1080p) | http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8 | HTTP 404
+  - Telecosta (Ecuador) | https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8 | HTTP 404
+  - Telesucesos (720p) [Not 24/7] | https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8 | HTTP 000
+  - TvOro (1080p) | http://45.187.0.19:9090/tvusa/index.m3u8 | HTTP 404
+  - UEBI TV Online (720p) [Not 24/7] | https://ventaxtv.com:3575/live/uebilive.m3u8 | HTTP 000
+  - VitoTVO (1080p) | http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8 | HTTP 404
+  - Vos y TV (720p) [Not 24/7] | https://cloud37.ecuatel.com/vostv/live/manifest.m3u8 | HTTP 404
+  - Zaracay TV (1080p) [Not 24/7] | https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8 | HTTP 404

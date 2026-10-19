@@ -1,0 +1,17 @@
+Canales caídos - gr
+Total: 71 | Funcionan: 57 | Caídos: 14
+
+  - Aeolos TV (1080p) | https://cdn.istoikona.com/aeolostv/live/playlist.m3u8 | HTTP 000
+  - ANT1 (1080p) [Geo-blocked] | https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8 | HTTP 403
+  - ART (Greece) (1080p) | https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8 | HTTP 404
+  - ART TV | https://rtmp.win:3696/live/arttvgrlive.m3u8 | HTTP 500
+  - Astra TV (1080p) | https://server.gointernet.gr/live/livestream.m3u8 | HTTP 404
+  - Dion TV (1080p) | https://rtmp.win:3650/live/diontvlive.m3u8 | HTTP 500
+  - Epirus TV1 (720p) | https://rtmp.win:3929/live/epiruslive.m3u8 | HTTP 500
+  - ERT3 (1080p) | https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8 | HTTP 401
+  - ERT Sports 1 (1080p) | http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts | HTTP 403
+  - ERT Sports 2 (1080p) | http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts | HTTP 403
+  - Mesogeios TV (720p) | https://rtmp.win:3793/live/mesogeiostvlive.m3u8 | HTTP 500
+  - Start TV (480p) | https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8 | HTTP 404
+  - Telekriti (720p) [Not 24/7] | https://neon.streams.gr:8081/telekriti/index.m3u8 | HTTP 404
+  - Thraki Net TV (1080p) | https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8 | HTTP 000

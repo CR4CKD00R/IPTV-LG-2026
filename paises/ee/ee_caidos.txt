@@ -1,0 +1,11 @@
+Canales caídos - ee
+Total: 25 | Funcionan: 17 | Caídos: 8
+
+  - DanceTV EDM Mainstage (1080p) | https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8 | HTTP 404
+  - DanceTV Minimal Tech (1080p) | https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8 | HTTP 404
+  - Gribu visu zinat (576p) | https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8 | HTTP 000
+  - KidZone Max SD (1080p) [Geo-blocked] | https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd | HTTP 403
+  - Kino 24 (720p) | http://sirius.greenhosting.ru/Kino24Ru/video.m3u8 | HTTP 000
+  - Movify Kino (576p) | https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8 | HTTP 000
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - Viasat Kino Action (576p) | http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8 | HTTP 404

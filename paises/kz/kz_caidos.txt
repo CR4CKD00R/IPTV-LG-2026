@@ -1,0 +1,34 @@
+Canales caídos - kz
+Total: 49 | Funcionan: 16 | Caídos: 31
+
+  - 24KZ (576p) | https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv | HTTP 403
+  - Almaty TV (576p) | https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv | HTTP 403
+  - Aqjaiyq (576p) | https://stream.kaztrk.kz/regional/oraltv/index.m3u8 | HTTP 403
+  - Aqtobe (576p) | https://stream.kaztrk.kz/regional/aktobetv/index.m3u8 | HTTP 403
+  - Atameken Business (576p) | https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv | HTTP 403
+  - Atyray (720p) | https://stream.kaztrk.kz/regional/atyrautv/index.m3u8 | HTTP 403
+  - Balapan (576p) | https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv | HTTP 403
+  - Balapan International (1080p) | https://live-3.otcnet.ru/Balapan/index.m3u8 | HTTP 503
+  - Channel One Eurasia (576p) | https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv | HTTP 403
+  - Ertis (1080p) [Not 24/7] | https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8 | HTTP 403
+  - Jambyl (360p) [Not 24/7] | https://stream.kaztrk.kz/regional/taraztv/index.m3u8 | HTTP 403
+  - Jibek Joly (576p) | https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv | HTTP 403
+  - Khabar (576p) | https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv | HTTP 403
+  - KinoBoevik (1080p) | https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv | HTTP 403
+  - Kokshe (720p) [Not 24/7] | https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8 | HTTP 403
+  - Mangystay (540p) [Not 24/7] | https://stream.kaztrk.kz/regional/mangystautv/index.m3u8 | HTTP 403
+  - Mirovoe kino (1080p) | https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv | HTTP 403
+  - MTRK (576p) | https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8 | HTTP 000
+  - MuzzOne | https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8 | HTTP 000
+  - Novoe televidenie (576p) | https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv | HTTP 403
+  - Ontustik (360p) | https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8 | HTTP 403
+  - QazSport (1080p) | http://stream.mcquack.net/72/index.m3u8 | HTTP 403
+  - Qonaev Media | https://s.qonaevtv.kz/live/qonaev/playlist.m3u8 | HTTP 000
+  - Qostanai (576p) [Not 24/7] | https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8 | HTTP 403
+  - Qyzyljar (720p) | https://stream.kaztrk.kz/regional/petropavltv/index.m3u8 | HTTP 403
+  - Qyzylorda (720p) | https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8 | HTTP 403
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - Saryarqa (720p) [Not 24/7] | https://stream.kaztrk.kz/regional/karagandytv/index.m3u8 | HTTP 403
+  - Semei (1080p) | https://stream.kaztrk.kz/regional/semeytv/index.m3u8 | HTTP 403
+  - Sport+ Qazaqstan (1080p) | https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv | HTTP 403
+  - Turan TV (576p) | https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv | HTTP 403

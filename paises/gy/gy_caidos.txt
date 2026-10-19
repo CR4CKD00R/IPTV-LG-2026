@@ -1,0 +1,6 @@
+Canales caídos - gy
+Total: 7 | Funcionan: 4 | Caídos: 3
+
+  - DTV-8 [Geo-blocked] | https://watch.davestv8.com/hls/stream.m3u8 | HTTP 403
+  - GMTV (1080p) | https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341 | HTTP 404
+  - Ignite Television (1080p) [Not 24/7] | https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8 | HTTP 000

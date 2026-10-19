@@ -1,0 +1,4 @@
+Canales caídos - km
+Total: 1 | Funcionan: 0 | Caídos: 1
+
+  - Nickelodeon Junior (1080p) | http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 | HTTP 000

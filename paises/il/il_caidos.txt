@@ -1,0 +1,8 @@
+Canales caídos - il
+Total: 36 | Funcionan: 31 | Caídos: 5
+
+  - 5Plus (1080p) | http://89.33.29.115:8080/sportplus/index.m3u8 | HTTP 403
+  - 5Stars (1080p) | http://89.33.29.115:8080/IL_5Stars/index.m3u8 | HTTP 403
+  - Health Channel (1080p) | http://89.33.29.115:8080/Health/index.m3u8 | HTTP 403
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - TeenNick (Israel) (406p) | http://89.33.29.115:8080/TeenNick/index.m3u8 | HTTP 403

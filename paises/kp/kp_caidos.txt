@@ -1,0 +1,4 @@
+Canales caídos - kp
+Total: 4 | Funcionan: 3 | Caídos: 1
+
+  - Korean Central Television SD (576p) | https://streamer.nknews.org/tvdash/stream.mpd | HTTP 520

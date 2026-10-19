@@ -1,0 +1,5 @@
+Canales caídos - kw
+Total: 11 | Funcionan: 9 | Caídos: 2
+
+  - Marina TV (1080p) | https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8 | HTTP 000
+  - Ritmu TV | https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8 | HTTP 000

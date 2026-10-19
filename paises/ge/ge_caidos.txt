@@ -1,0 +1,13 @@
+Canales caídos - ge
+Total: 21 | Funcionan: 11 | Caídos: 10
+
+  - Adjarasport 1 | https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8 | HTTP 403
+  - Comedy TV | http://31.146.5.178:8087/play/a00b/index.m3u8 | HTTP 000
+  - GDS TV | http://31.146.5.178:8087/play/a00a/index.m3u8 | HTTP 000
+  - GMS TV (Georgia) | http://158.101.222.193:88/georgia_play.php?id=gms | HTTP 000
+  - Mtavari Arkhi | https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8 | HTTP 403
+  - Obieqtivi TV | https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8 | HTTP 403
+  - Rioni TV (720p) [Not 24/7] | http://video.rionitv.com:9090/hls/live/rioni.m3u8 | HTTP 000
+  - Rustavi 2 | http://31.146.5.178:8087/play/a008/index.m3u8 | HTTP 000
+  - Setanta Sports 3 | http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3 | HTTP 000
+  - TVC (Georgia) (1080p) | http://31.146.5.178:8087/play/a009/index.m3u8 | HTTP 000
