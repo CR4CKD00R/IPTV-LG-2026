@@ -64,11 +64,15 @@ El script prioriza 1080p solo cuando existe un único canal en ese formato. Si e
 ## Proyectos relacionados
 
 - **iptv-org/iptv** — proyecto oficial de donde salen las listas de canales. Ver la sección Resources: https://github.com/iptv-org/iptv#resources
+  
 - **webOS Dev Manager** — app para PC que instala aplicaciones en el TV en modo desarrollador. Para Windows, descarga el archivo **.msi** desde Releases: https://github.com/webosbrew/dev-manager-desktop/releases — o usa el instalador incluido en `Software/` (`webOS.Dev.Manager_1.99.20_x64_en-US.msi`).
+  
 - **Homebrew Channel** — la tienda de apps para webOS, desde donde se instala Kodi: https://github.com/webosbrew/webos-homebrew-channel — Organización: https://github.com/webosbrew
+  
 - **PuTTY** — cliente SSH alternativo para conectarse al TV. No se usa en este proyecto (Dev Manager ya incluye lo necesario). Si la página oficial no te carga, usa el instalador incluido en `Software/` (`putty-64bit-0.85-installer.msi`):
-   https://apps.microsoft.com/detail/xpfnzksklbp7rj?hl=es-ES&gl=PE
-   https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html
+- https://apps.microsoft.com/detail/xpfnzksklbp7rj?hl=es-ES&gl=PE
+- https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html
+  
 - **RootMyTV** — método para conseguir root en TVs LG con webOS. No se usa en este proyecto, que funciona sin root: https://rootmy.tv/ — https://github.com/RootMyTV/RootMyTV.github.io
 
 ## FAQ
