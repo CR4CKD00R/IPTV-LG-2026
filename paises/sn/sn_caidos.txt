@@ -1,0 +1,11 @@
+Canales caídos - sn
+Total: 16 | Funcionan: 8 | Caídos: 8
+
+  - A2i Music (720p) [Not 24/7] | https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8 | HTTP 404
+  - A2i Naija (720p) [Not 24/7] | https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8 | HTTP 404
+  - Chabiba TV (360p) [Not 24/7] | https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8 | HTTP 404
+  - CNM TV (720p) [Not 24/7] | https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8 | HTTP 404
+  - One Nation TV (720p) [Not 24/7] | https://endour.net/hls/One_nationtv/index.m3u8 | HTTP 404
+  - RTS 3 (Senegal) (720p) | http://145.239.5.177/224/index.m3u8 | HTTP 403
+  - SunuLabel TV (480p) [Not 24/7] | https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8 | HTTP 000
+  - TeleMusik Senegal (720p) | https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8 | HTTP 000

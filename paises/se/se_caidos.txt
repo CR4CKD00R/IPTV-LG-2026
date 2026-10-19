@@ -1,0 +1,11 @@
+Canales caídos - se
+Total: 142 | Funcionan: 134 | Caídos: 8
+
+  - Aryen TV (1080p) [Not 24/7] | https://aryen.tv/live/tv/playlist.m3u8 | HTTP 000
+  - Kunskapskanalen HD (1080p) [Geo-blocked] | https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls | HTTP 403
+  - NRK1 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8 | HTTP 403
+  - NRK2 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8 | HTTP 403
+  - NRK3 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8 | HTTP 403
+  - NRK Super (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8 | HTTP 403
+  - SVT1 HD (1080p) [Geo-blocked] | https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls | HTTP 403
+  - SVT2 HD (1080p) [Geo-blocked] | https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls | HTTP 403

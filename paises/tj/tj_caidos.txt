@@ -1,0 +1,17 @@
+Canales caídos - tj
+Total: 14 | Funcionan: 0 | Caídos: 14
+
+  - Badakhshon (576p) | https://live.teleradiocom.tj/11/3m.m3u8 | HTTP 000
+  - Dushanbe HD (1080p) | https://live.teleradiocom.tj/7/3m.m3u8 | HTTP 000
+  - Futbol (1080p) | https://live.teleradiocom.tj/8/3m.m3u8 | HTTP 000
+  - Ilm va Tabiat (1080p) | https://live.teleradiocom.tj/15/3m.m3u8 | HTTP 000
+  - Jahonnamo (1080p) | https://live.teleradiocom.tj/4/3m.m3u8 | HTTP 000
+  - Khatlon (576p) | https://live.teleradiocom.tj/10/3m.m3u8 | HTTP 000
+  - TMT (1080p) | https://live.teleradiocom.tj/9/3m.m3u8 | HTTP 000
+  - Tojikiston (1080p) | https://live.teleradiocom.tj/1/3m.m3u8 | HTTP 000
+  - TV Bahoriston (1080p) | https://live.teleradiocom.tj/3/3m.m3u8 | HTTP 000
+  - TV Kulob (576p) | https://live.teleradiocom.tj/12/3m.m3u8 | HTTP 000
+  - TV Safina (1080p) | https://live.teleradiocom.tj/2/3m.m3u8 | HTTP 000
+  - TV Sayohi (1080p) | https://live.teleradiocom.tj/16/3m.m3u8 | HTTP 000
+  - TV Sinamo (1080p) | https://live.teleradiocom.tj/6/3m.m3u8 | HTTP 000
+  - TV Sugd (1080p) | https://live.teleradiocom.tj/14/3m.m3u8 | HTTP 000

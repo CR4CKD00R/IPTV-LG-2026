@@ -1,0 +1,11 @@
+Canales caídos - za
+Total: 21 | Funcionan: 13 | Caídos: 8
+
+  - Crime and Evidence (720p) | https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8 | HTTP 000
+  - e.tv News & Sport (720p) | https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8 | HTTP 000
+  - GNF TV (576p) | https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8 | HTTP 000
+  - RLW TV (576p) [Not 24/7] | https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8 | HTTP 000
+  - SABC 1 (720p) [Geo-blocked] | https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8 | HTTP 403
+  - SABC 2 [Geo-blocked] | https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8 | HTTP 403
+  - Seraphim TV [Not 24/7] | https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8 | HTTP 000
+  - Trigger | https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8 | HTTP 000

@@ -1,0 +1,22 @@
+Canales caídos - si
+Total: 25 | Funcionan: 6 | Caídos: 19
+
+  - Adria Music Television | https://adriaapp.b-cdn.net/1080p/index.m3u8 | HTTP 000
+  - Exodus TV (720p) | https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8 | HTTP 000
+  - Folx Slovenija | https://folxsloapp.b-cdn.net/1080p/index.m3u8 | HTTP 000
+  - H2 HD | https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8 | HTTP 000
+  - History (Slovenia) (1080p) | https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true | HTTP 000
+  - Kanal A | https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true | HTTP 000
+  - One Adria | https://oneadriaapp.b-cdn.net/1080p/index.m3u8 | HTTP 000
+  - Star Channel (Slovenia) | http://92.36.202.5:10001/play/a01s | HTTP 000
+  - Star Crime (Slovenia) | http://92.36.202.5:10001/play/a02o | HTTP 000
+  - Star Life (Slovenia) | http://92.36.202.5:10001/play/a02n | HTTP 000
+  - Star Movies (Slovenia) | http://92.36.202.5:10001/play/a01o | HTTP 000
+  - Televizija Urslja (1080p) [Not 24/7] | http://ott.sgn.net/hls/tvurslja.m3u8 | HTTP 404
+  - Trzic TV (1080p) [Not 24/7] | https://vpn.video2go.live:444/trzic/tv/playlist.m3u8 | HTTP 000
+  - TV SLO 1 | https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true | HTTP 000
+  - TV SLO 2 | https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true | HTTP 000
+  - TV SLO 3 | https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true | HTTP 000
+  - Viasat Explore (Slovenia) | https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8 | HTTP 000
+  - Viasat History (Slovenia) | https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8 | HTTP 000
+  - Viasat Nature (Slovenia) | https://lb.dstvmultimedia.com/ViasatNature/index.m3u8 | HTTP 000

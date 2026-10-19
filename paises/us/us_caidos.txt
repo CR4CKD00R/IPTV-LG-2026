@@ -1,0 +1,280 @@
+Canales caídos - us
+Total: 1483 | Funcionan: 1203 | Caídos: 277
+
+  - 24 Hour Free Movies (720p) | https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8 | HTTP 403
+  - ABC KRGV-TV | https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8 | HTTP 403
+  - ABC WBRZ-TV (480p) | https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8 | HTTP 403
+  - ABC WFTV (720p) | https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8 | HTTP 401
+  - ABC WJLA-TV (1080p) | https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8 | HTTP 404
+  - ABC WLOS (1080p) | https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8 | HTTP 404
+  - ABC WPDE-TV (1080p) | https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8 | HTTP 404
+  - ABC WSOC-TV (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8 | HTTP 401
+  - ABC WSYX (1080p) | https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8 | HTTP 404
+  - Access Sacramento Channel 17 | https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8 | HTTP 502
+  - Access Tuolumne (720p) | https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8 | HTTP 403
+  - Adult Swim West [Not 24/7;Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8 | HTTP 403
+  - AFV Espanol (720p) [Not 24/7] | https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8 | HTTP 000
+  - Alabama Weather Network (720p) | https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8 | HTTP 523
+  - AMC en Espanol | https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8 | HTTP 000
+  - AMP 1 (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8 | HTTP 403
+  - AMP 2 (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8 | HTTP 403
+  - Animation+ (1080p) [Geo-blocked] | https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8 | HTTP 403
+  - Antiques Road Trip (1080p) | https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8 | HTTP 403
+  - ARTN TV (1080p) [Not 24/7] | https://streamer1.connectto.com/ARTN_mobile/index.m3u8 | HTTP 403
+  - Asian Culture TV (1080p) | https://cdn.vegasplus.us/vegas/actv/playlist.m3u8 | HTTP 403
+  - BabyTV Latin America (1080p) | http://38.44.109.41:8003/play/a0eh | HTTP 403
+  - BATV (480p) | https://reflect-batv.cablecast.tv/live-5/live/live.m3u8 | HTTP 403
+  - BATV Government TV (480p) | https://reflect-batv.cablecast.tv/live-3/live/live.m3u8 | HTTP 403
+  - Baywatch (1080p) | https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8 | HTTP 000
+  - BBC Kids (720p) | https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8 | HTTP 502
+  - beIN SPORTS XTRA en Espanol (1080p) | http://201.190.41.246:9060/play/a03y/index.m3u8 | HTTP 000
+  - BIG Civic Channel | https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8 | HTTP 503
+  - BIG Community Channel | https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8 | HTTP 503
+  - Billiard TV (1080p) [Geo-blocked] | https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8 | HTTP 403
+  - Brevard Government Access TV (720p) | https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8 | HTTP 404
+  - Cafe Trade TV | https://cafetradehls.wns.live/hls/stream.m3u8 | HTTP 000
+  - Cartoon Network (United States) (720p) | http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8 | HTTP 000
+  - CBS KIRO-TV (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8 | HTTP 403
+  - CBS KUTV (1080p) | https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8 | HTTP 404
+  - CBS WHIO-TV (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8 | HTTP 401
+  - CBS WJAX-TV (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8 | HTTP 403
+  - CBS WKRC-TV (1080p) | https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8 | HTTP 404
+  - CBS WPEC (1080p) | https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8 | HTTP 404
+  - CBS WWMT (1080p) | https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8 | HTTP 404
+  - Celebrity Name Game (1080p) [Geo-blocked] | https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8 | HTTP 403
+  - CFM TV Channel 98 (360p) | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8 | HTTP 404
+  - Channel One (United States) | https://pemirateshls.persiana.live/hls/stream.m3u8 | HTTP 000
+  - Cinevault 80s (720p) | https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8 | HTTP 404
+  - CityTV Lakewood (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8 | HTTP 403
+  - Clarity 4K (2160p) [Geo-blocked] | https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8 | HTTP 403
+  - CNBC (720p) [Geo-blocked] | http://41.205.93.154/CNBC/index.m3u8 | HTTP 404
+  - Collier TV (720p) | https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8 | HTTP 500
+  - Comedy Dynamics (1080p) | https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8 | HTTP 000
+  - Community 12TV (720p) | https://lin10.isilive.ca/live/gainesville/live/index.m3u8 | HTTP 404
+  - Contra Costa TV [Geo-blocked] | https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8 | HTTP 403
+  - Cops (720p) | https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8 | HTTP 000
+  - Curiosity NOW EN (1080p) | https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - CVC Education (480p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8 | HTTP 403
+  - CVC Government (480p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8 | HTTP 403
+  - CVC Public (480p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8 | HTTP 403
+  - Dega TV (720p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8 | HTTP 404
+  - Designated Survivor (1080p) [Geo-blocked] | https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - Disney Junior (United States) (480p) | http://tvsen5.aynascope.net/disney/index.m3u8 | HTTP 000
+  - Disney XD (United States) (720p) | http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8 | HTTP 404
+  - Diya TV (1080p) | https://stream.diyatvinc.com/diya.m3u8 | HTTP 000
+  - Docurama (1080p) | https://docurama-plex-ingest.cinedigm.com/playlist.m3u8 | HTTP 000
+  - Don't Tell The Bride (1080p) | https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - E! Keeping Up (1080p) | https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8 | HTTP 000
+  - El Rey | https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544 | HTTP 400
+  - Electric Now (720p) | https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8 | HTTP 403
+  - Escambia County TV (720p) | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8 | HTTP 404
+  - ESNE TV (1080p) | http://190.217.66.92:8000/play/a0fp/index.m3u8 | HTTP 000
+  - ESPN (United States) (432p) | http://tvsen7.aynascope.net/espn/index.m3u8 | HTTP 000
+  - ESPN Deportes HD (720p) | http://168.228.44.241:9998/play/a0dz/index.m3u8 | HTTP 000
+  - ESPNU (720p) | http://23.237.104.106:8080/USA_ESPNU/index.m3u8 | HTTP 404
+  - EWTN (United States) (720p) [Geo-blocked] | https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8 | HTTP 403
+  - EWTN (United States) Spanish (720p) [Geo-blocked] | https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8 | HTTP 403
+  - F1 Channel (1080p) [Geo-blocked] | https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - FCTV (1080p) | https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8 | HTTP 403
+  - FilAmTV Network (1080p) | https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8 | HTTP 403
+  - FilmRise Forensic Files (720p) [Geo-blocked] | https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8 | HTTP 403
+  - FITE 24/7 (1080p) | https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8 | HTTP 403
+  - Fox (United States) (720p) | http://stream.cammonitorplus.net/1752/index.m3u8 | HTTP 000
+  - Fox (United States) KMPH-TV (1080p) | https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8 | HTTP 404
+  - Fox (United States) KOKH-TV (1080p) | https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8 | HTTP 404
+  - Fox (United States) WBFF (1080p) | https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8 | HTTP 404
+  - Fox (United States) West (720p) | http://stream.cammonitorplus.net/1799/index.m3u8 | HTTP 000
+  - Fox (United States) WSVN (1080p) | http://190.197.41.183/Fox/index.m3u8 | HTTP 000
+  - Freebie TV (720p) [Not 24/7] | https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8 | HTTP 403
+  - Gagsnetwork (576p) | http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8 | HTTP 000
+  - Galavision East HD (1080p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8 | HTTP 403
+  - Galavision West HD (1080p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8 | HTTP 403
+  - Galveston County TV (720p) [Not 24/7] | https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8 | HTTP 000
+  - GCO.tv (1080p) | https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8 | HTTP 502
+  - Glendale TV (720p) [Geo-blocked] | https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8 | HTTP 403
+  - GMTV (1080p) | https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341 | HTTP 404
+  - GoTraveler (720p) [Geo-blocked] | https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8 | HTTP 403
+  - Greensboro TV (720p) | https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8 | HTTP 000
+  - Hallmark Channel (1080p) | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8 | HTTP 404
+  - HarPal Geo (360p) | https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8 | HTTP 404
+  - Harvest USA (576p) | https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8 | HTTP 404
+  - Hasbro Legends (1080p) [Geo-blocked] | https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8 | HTTP 403
+  - HBO (United States) (720p) | http://tvsen7.aynascope.net/hbo/index.m3u8 | HTTP 000
+  - HBO Hits (720p) | http://tvsen7.aynascope.net/hbo2/index.m3u8 | HTTP 000
+  - HBO Movies (720p) | http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8 | HTTP 404
+  - HBTV (720p) | https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8 | HTTP 403
+  - HGTV (United States) (720p) | http://tvsen7.aynascope.net/hgtv/index.m3u8 | HTTP 000
+  - Homeful US (1080p) | https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8 | HTTP 403
+  - Hope4Life TV (720p) | http://144.217.14.88/hls/hope4life.m3u8 | HTTP 000
+  - Humor Mill (1080p) | https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK | HTTP 403
+  - Iman TV (480p) | https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8 | HTTP 000
+  - Iron Chef | https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8 | HTTP 404
+  - Jus Hindi (1080p) | http://103.154.3.101:5001/live/960.m3u8 | HTTP 000
+  - Jus One (1080p) | http://103.154.3.101:5001/live/961.m3u8 | HTTP 000
+  - Jus Punjabi (1080p) | http://103.154.3.101:5001/live/959.m3u8 | HTTP 000
+  - KBEV (1080p) | https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8 | HTTP 403
+  - Ketchup TV (720p) | https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8 | HTTP 502
+  - Kevin Hart's LOL! Network (720p) | https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8 | HTTP 502
+  - KFON TV (720p) [Geo-blocked] | https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8 | HTTP 403
+  - KidOO (1080p) [Geo-blocked] | http://15.204.246.24:8080/KidooHD/index.m3u8 | HTTP 404
+  - KRGV-TV 5.2 [Geo-blocked] | https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8 | HTTP 403
+  - LA CityView 35 (1080p) | https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8 | HTTP 500
+  - La Que Buena Atlanta | https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8 | HTTP 404
+  - Laff (576p) | http://tvsen7.aynascope.net/laff/index.m3u8 | HTTP 000
+  - LakeFront TV (720p) | https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8 | HTTP 502
+  - Lakewood Channel 8 (720p) | https://live8fd.lakewood.org/live-2/live/live.m3u8 | HTTP 000
+  - Las Vegas Tonight with Dale Davidson (1080p) | https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8 | HTTP 403
+  - Latino Channel TV (1080p) | https://cdn.vegasplus.us/vegas/latch/playlist.m3u8 | HTTP 403
+  - LATV (1080p) [Geo-blocked] | https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8 | HTTP 403
+  - Lifetime Movies (1080p) | http://23.237.104.106:8080/USA_LMN/index.m3u8 | HTTP 404
+  - Littleton 8 TV (1080p) | https://ch8.littletongov.org/live-2/live/live.m3u8 | HTTP 404
+  - Logos TV Estudio (720p) [Not 24/7] | https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8 | HTTP 404
+  - Logos TV Salud (720p) [Not 24/7] | https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8 | HTTP 404
+  - MagellanTV Now (1080p) | https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8 | HTTP 403
+  - Magnificent Movies Network | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8 | HTTP 404
+  - Magnolia Network (720p) | http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8 | HTTP 000
+  - MCN6 Arts Channel (1080p) [Not 24/7] | https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8 | HTTP 403
+  - MCN6 Main Channel (1080p) [Not 24/7] | https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8 | HTTP 403
+  - MCN6 Music Channel (1080p) [Not 24/7] | https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8 | HTTP 403
+  - MeTV (720p) | https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8 | HTTP 403
+  - Military History (720p) | https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2 | HTTP 403
+  - MMA TV (576p) | http://31.148.48.15/M1_Global/index.m3u8 | HTTP 000
+  - MNT WCIV (1080p) | https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8 | HTTP 404
+  - Movies! (480p) | https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8 | HTTP 403
+  - Mr Bean Animated (1080p) | https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - MSG (720p) | http://23.237.104.106:8080/USA_MSG/index.m3u8 | HTTP 404
+  - MSTV (1080p) | https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8 | HTTP 502
+  - NBC (1080p) | http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8 | HTTP 000
+  - NBC KSNV (1080p) | https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8 | HTTP 404
+  - NBC West (720p) | http://stream.cammonitorplus.net/1800/index.m3u8 | HTTP 000
+  - NBC WJAC-TV (1080p) | https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8 | HTTP 404
+  - NBC WLIO (720p) [Not 24/7] | https://live.field59.com/wlio/wlio1/playlist.m3u8 | HTTP 404
+  - NBC WOAI-TV (1080p) | https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8 | HTTP 404
+  - NBC WPXI (1080p) | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8 | HTTP 403
+  - NBC WRDE-LD (720p) [Not 24/7] | https://live.field59.com/wrde/wrde1/playlist.m3u8 | HTTP 404
+  - NBC WTLV (1080p) | http://190.197.41.183/NBC/index.m3u8 | HTTP 000
+  - NBC WTOV-TV (1080p) | https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8 | HTTP 404
+  - NCM Educational & Kids Channel | https://reflect-npa.cablecast.tv/live-9/live/live.m3u8 | HTTP 502
+  - NCM Government & Politics Channel | https://reflect-npa.cablecast.tv/live-8/live/live.m3u8 | HTTP 502
+  - NCM Main Channel | https://reflect-npa.cablecast.tv/live-6/live/live.m3u8 | HTTP 502
+  - New Channel (480p) | https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8 | HTTP 404
+  - New Channel Pop! (480p) | https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8 | HTTP 404
+  - News12+ Connecticut (1080p) [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8 | HTTP 408
+  - News12+ Hudson Valley (1080p) [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8 | HTTP 408
+  - News12+ Long Island (1080p) [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8 | HTTP 408
+  - News12+ New Jersey (1080p) [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8 | HTTP 408
+  - News12 Bronx [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https | HTTP 408
+  - News12 Conneticut [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https | HTTP 408
+  - News12 Westchester [Geo-blocked] | https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https | HTTP 408
+  - NMBTV (720p) | https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8 | HTTP 404
+  - Nosey (1080p) | https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8 | HTTP 403
+  - NRBTV (720p) | http://145.239.5.177/215/index.m3u8 | HTTP 403
+  - NYXT (1080p) | https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8 | HTTP 502
+  - OnTV4U (1080p) [Geo-blocked] | https://stirr.b-cdn.net/stirr/playlist.m3u8 | HTTP 000
+  - Outdoor Channel (1080p) | https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8 | HTTP 403
+  - Overcomers TV (720p) | https://glorystartv.live/Overcomers/index.m3u8 | HTTP 404
+  - Pacific Island Network (1080p) | https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8 | HTTP 403
+  - Pasco TV (480p) | https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8 | HTTP 404
+  - Payam Javan TV (720p) [Not 24/7] | https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8 | HTTP 404
+  - PBC TV Channel 20 (720p) | https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8 | HTTP 000
+  - PBS (1080p) [Geo-blocked] | https://pbs.lls.cdn.pbs.org/est/index.m3u8 | HTTP 403
+  - PBS KETS [Geo-blocked] | https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8 | HTTP 204
+  - PBS KHET (1080p) [Not 24/7] | https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8 | HTTP 204
+  - PBS KMOS-TV (1080p) [Geo-blocked] | https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8 | HTTP 403
+  - PBS KUON-TV (1080p) [Geo-blocked] | https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8 | HTTP 204
+  - PBS WNJT (1080p) [Not 24/7] | https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8 | HTTP 204
+  - PCT Channel 27 (720p) | https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8 | HTTP 404
+  - People Are Awesome (1080p) | https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8 | HTTP 404
+  - PhillyCAM (720p) | https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8 | HTTP 404
+  - Pomona Internet Streaming Channel (720p) | https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8 | HTTP 502
+  - Popstar! TV (1080p) [Not 24/7] | https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8 | HTTP 000
+  - PSD TV (720p) | https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8 | HTTP 502
+  - PTL TV Network (1080p) | https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8 | HTTP 403
+  - Radio Tele Kajou (480p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8 | HTTP 404
+  - Radio Tele Wisdom (360p) [Not 24/7] | https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8 | HTTP 404
+  - Real America's Voice (1080p) | https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8 | HTTP 000
+  - Real Wild (1080p) | https://lds-realwild-samsungau.amagi.tv/playlist.m3u8 | HTTP 403
+  - Reelz (720p) | http://23.237.104.106:8080/USA_REELZ/index.m3u8 | HTTP 404
+  - Retro TV (720p) [Geo-blocked] | https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8 | HTTP 403
+  - REV'N Action (720p) [Geo-blocked] | https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8 | HTTP 403
+  - Revry News (720p) [Not 24/7] | https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8 | HTTP 000
+  - RFD-TV | https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8 | HTTP 503
+  - Roar WKEF (1080p) | https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8 | HTTP 404
+  - Roar WSBT-TV (1080p) | https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8 | HTTP 404
+  - Rocky Hill Channel 16 (480p) | https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8 | HTTP 404
+  - RT en Espanol (1080p) | http://15.204.246.24:8080/RTHD/index.m3u8 | HTTP 404
+  - Samsung Wildlife (720p) [Geo-blocked] | https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8 | HTTP 403
+  - SGTV (1080p) | https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8 | HTTP 000
+  - Shalom America (720p) [Not 24/7] | https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8 | HTTP 000
+  - Sony Canal Novelas | https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8 | HTTP 504
+  - SPTV (360p) | https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8 | HTTP 404
+  - Starz Cinema (720p) | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8 | HTTP 404
+  - Starz Encore Spanish (720p) | http://168.228.44.241:9998/play/a0e1/index.m3u8 | HTTP 000
+  - Stockton Gov TV (720p) | https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8 | HTTP 404
+  - Survivor (1080p) | https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8 | HTTP 403
+  - Taiwan Plus TV (1080p) | https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8 | HTTP 503
+  - Tapesh 2 | https://maxtvhls.wns.live/hls/stream.m3u8 | HTTP 000
+  - TBN (1080p) | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8 | HTTP 404
+  - TBN Inspire (1080p) | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8 | HTTP 404
+  - TBS (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8 | HTTP 403
+  - TBS West (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8 | HTTP 403
+  - TCM (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8 | HTTP 403
+  - TCM West (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8 | HTTP 403
+  - TeenNick (United States) (432p) | http://tvsen7.aynascope.net/teennick/index.m3u8 | HTTP 000
+  - TeleMIX (720p) | https://haititivi.com/haiti/telemix1/index.m3u8 | HTTP 000
+  - Telemundo (720p) | http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8 | HTTP 000
+  - Telemundo West (2160p) | http://168.228.44.241:9997/play/a07g/index.m3u8 | HTTP 404
+  - Telemundo Al Dia (720p) | https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573 | HTTP 504
+  - TeleXitos (1080p) | http://190.197.41.183/TELEXITOS/index.m3u8 | HTTP 000
+  - The Bob Ross Channel (720p) | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8 | HTTP 404
+  - The Burbank Channel (720p) | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8 | HTTP 404
+  - The City of Marina (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8 | HTTP 403
+  - The Country Network (1080p) | https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - The Doctors (720p) [Geo-blocked] | https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8 | HTTP 403
+  - The Film Detective (720p) | https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8 | HTTP 000
+  - The Hill TV (1080p) [Geo-blocked] | https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8 | HTTP 000
+  - The Monterey Channel (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8 | HTTP 403
+  - The Peninsula Channel (720p) | https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8 | HTTP 403
+  - Timeless TV | https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8 | HTTP 404
+  - TNT (United States) West (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8 | HTTP 403
+  - TNT International SD (480p) | https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8 | HTTP 404
+  - Transformers TV (720p) | https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8 | HTTP 404
+  - Tribeca Channel (1080p) [Geo-blocked] | https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8 | HTTP 403
+  - True Crime Network (1080p) [Geo-blocked] | https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - True Crime Now (1080p) | https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8 | HTTP 403
+  - truTV West (720p) [Geo-blocked] | https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8 | HTTP 403
+  - TUDN (United States) (1080p) | http://45.190.13.8/TUDNHD/index.m3u8 | HTTP 000
+  - TV Daja (1080p) [Not 24/7] | https://edge.essastream.com/dajatv/playlist.m3u8 | HTTP 404
+  - UniMas Central (720p) | http://190.197.41.183/Unimas/mono.m3u8 | HTTP 000
+  - UniMas KFTR-DT [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8 | HTTP 403
+  - UniMas KUVN-DT | https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8 | HTTP 403
+  - UniMas WAMI-DT (1080p) | http://190.197.41.183/Unimas/index.m3u8 | HTTP 000
+  - UniMas WFUT-DT (720p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8 | HTTP 403
+  - UniMas WXTV-DT | https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8 | HTTP 403
+  - Univision (1080p) | http://190.197.41.183/Univision/index.m3u8 | HTTP 000
+  - Univision East HD (1080p) | http://45.190.13.8/UnivisionHD/index.m3u8 | HTTP 000
+  - Univision KMEX-DT [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8 | HTTP 403
+  - Univision West (1080p) [Geo-blocked] | https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8 | HTTP 403
+  - Univision WGBO-DT (2160p) | https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null | HTTP 405
+  - Univision Tlnovelas (1080p) | http://45.6.4.35/TELENOVELAS/index.m3u8 | HTTP 000
+  - USA Network (720p) | http://190.197.41.183/USA_NETWORK/index.m3u8 | HTTP 000
+  - Vallenato Internacional (720p) [Not 24/7] | https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8 | HTTP 000
+  - VCAT (480p) | https://vallejo.cablecast.tv/live-3/live/live.m3u8 | HTTP 000
+  - Vegas Life TV (1080p) | https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8 | HTTP 403
+  - Vevo 2K (1080p) | https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo '70s (1080p) | https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo '80s (1080p) | https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo '90s (1080p) | https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo Country (1080p) | https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo Pop (1080p) | https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8 | HTTP 000
+  - Vevo Retro Rock (1080p) | https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8 | HTTP 000
+  - VSCTV (1080p) | https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8 | HTTP 403
+  - WACX 55.1 (720p) | https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8 | HTTP 000
+  - Willow (720p) | http://tvsen5.aynascope.net/willowhd/index.m3u8 | HTTP 000
+  - Wired2FishTV (720p) [Geo-blocked] | https://wire2fish-klowdtv.amagi.tv/playlist.m3u8 | HTTP 403
+  - WITN22 (1080p) [Not 24/7] | https://witn.cablecast.tv/live-4/live/live.m3u8 | HTTP 000
+  - World Poker Tour (1080p) | https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8 | HTTP 403
+  - WSOC Now (1080p) [Geo-blocked] | https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8 | HTTP 403
+  - WWON-TV Channel 48 | https://tv2.fastcast4u.com:3943/stream/play.m3u8 | HTTP 404
+  - Zoom News (720p) | https://live.zoomnews.info/live/Zoom_playlist.m3u8 | HTTP 521
+  - ZTV (1080p) | http://45.70.201.81:8000/play/a00u/index.m3u8 | HTTP 404

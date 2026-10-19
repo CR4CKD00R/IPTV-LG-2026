@@ -1,0 +1,5 @@
+Canales caídos - rw
+Total: 8 | Funcionan: 6 | Caídos: 2
+
+  - BTN TV (Rwanda) | https://tv.btnrwanda.com:3973/live/btnv2live.m3u8 | HTTP 404
+  - Urejesho TV Africa (360p) [Not 24/7] | https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8 | HTTP 404

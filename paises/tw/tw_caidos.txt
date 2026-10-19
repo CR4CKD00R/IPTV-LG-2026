@@ -1,0 +1,18 @@
+Canales caídos - tw
+Total: 27 | Funcionan: 12 | Caídos: 15
+
+  - CTi Variety (720p) | http://23.237.10.66:16372 | HTTP 000
+  - CTS News [Geo-blocked] | http://seb.sason.top/sc/hsxw_fhd.m3u8 | HTTP 000
+  - DaAi 1 (720p) | https://pulltv1.wanfudaluye.com/live/tv1.m3u8 | HTTP 403
+  - DaAi 2 (1080p) | http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8 | HTTP 000
+  - EBC Financial News (1080p) [Not 24/7] | http://seb.sason.top/sc/dscjxw_fhd.m3u8 | HTTP 000
+  - EBC News (1080p) [Not 24/7] | http://seb.sason.top/sc/dsxw_fhd.m3u8 | HTTP 000
+  - FTV (Taiwan) (720p) [Not 24/7] | http://seb.sason.top/ptv/ftv.php?id=ms | HTTP 000
+  - FTV One (720p) [Not 24/7] | http://seb.sason.top/ptv/ftv.php?id=dy | HTTP 000
+  - Hakka TV | https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8 | HTTP 404
+  - Indigenous TV (720p) | http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8 | HTTP 403
+  - MOMO TV (1080p) | http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8 | HTTP 000
+  - SET News (1080p) [Geo-blocked] | http://seb.sason.top/sc/sllive_fhd.m3u8 | HTTP 000
+  - TTV (720p) | http://162.19.247.76:22222/live/taishi/index.m3u8 | HTTP 000
+  - TVBS News [Geo-blocked] | http://seb.sason.top/sc/tvbsxw_fhd.m3u8 | HTTP 000
+  - WXTV (480p) | https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8 | HTTP 000

@@ -1,0 +1,126 @@
+Canales caídos - uk
+Total: 301 | Funcionan: 178 | Caídos: 123
+
+  - 5USA (360p) | https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8 | HTTP 000
+  - Aaj Tak (1080p) | http://103.213.31.109:90/AajtakHD/playlist.m3u8 | HTTP 000
+  - Aathavan TV (720p) [Not 24/7] | http://45.77.66.224:1935/athavantv/live/playlist.m3u8 | HTTP 000
+  - BBC Alba | https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Four | https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Four/CBeebies (720p) | http://193.46.58.239:8080/CbeebiesHD/index.m3u8 | HTTP 403
+  - BBC News UK HD (1080p) | http://45.153.96.44:8001 | HTTP 000
+  - BBC One | https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC One East (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One East Midlands (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One East Midlands HD [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd | HTTP 403
+  - BBC One London HD (720p) | http://193.46.58.239:8080/BBCOneHD/index.m3u8 | HTTP 403
+  - BBC One North East & Cumbria (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One North East & Cumbria HD [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd | HTTP 403
+  - BBC One North West (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One North West HD [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd | HTTP 403
+  - BBC One Northern Ireland (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One Northern Ireland HD [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd | HTTP 403
+  - BBC One Scotland (540p) [Geo-blocked] | https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8 | HTTP 403
+  - BBC One Scotland HD (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One South (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One South East (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One South West (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One Wales (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One West (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One West Midlands (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One Yorkshire (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC One Yorkshire HD (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd | HTTP 403
+  - BBC Parliament | https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Red Button 1 (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 2 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 3 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 4 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 5 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 6 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 7 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 8 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 9 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 10 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 11 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 12 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 13 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 14 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 15 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 16 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 17 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 18 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 19 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 20 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 21 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 22 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 23 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Red Button 24 (720p) [Geo-blocked] | https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Scotland | https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Three (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Three HD | https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Three/CBBC (720p) | http://193.46.58.239:8080/CBBCHD/index.m3u8 | HTTP 403
+  - BBC Two HD (720p) | http://193.46.58.239:8080/BBCTwoHD/index.m3u8 | HTTP 403
+  - BBC Two Northern Ireland | https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd | HTTP 404
+  - BBC Two Northern Ireland HD (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd | HTTP 403
+  - BBC Two Wales | https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd | HTTP 404
+  - Blaze (576p) [Geo-blocked] | https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8 | HTTP 403
+  - CBBC (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd | HTTP 403
+  - CBBC HD | https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd | HTTP 404
+  - CBeebies (United Kingdom) (720p) [Geo-blocked] | https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd | HTTP 403
+  - CBeebies (United Kingdom) HD | https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd | HTTP 404
+  - Channel 4 (360p) | https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8 | HTTP 000
+  - Channel 5 (United Kingdom) (360p) | https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8 | HTTP 000
+  - Dog Whisperer (1080p) [Geo-blocked] | https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8 | HTTP 403
+  - E4 (360p) | https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8 | HTTP 000
+  - Eman Channel (576p) | https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8 | HTTP 000
+  - Foodxp (1080p) | https://techtraveleat.in/stream.m3u8?id=foodxp | HTTP 403
+  - Garshom TV (360p) [Not 24/7] | https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8 | HTTP 000
+  - GB News (1080p) | https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8 | HTTP 403
+  - Ghost Hunters (1080p) | https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - GREAT! movies (1080p) | https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8 | HTTP 403
+  - GREAT! romance (1080p) | https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8 | HTTP 403
+  - Hell's Kitchen (1080p) | https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8 | HTTP 403
+  - Homicide Hunter | https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8 | HTTP 404
+  - IBC Bakthi (1080p) | https://ibc.massstream.net/IBC2/index.m3u8 | HTTP 000
+  - IBC Tamil (1080p) | https://ibc.massstream.net/IBC/index.m3u8 | HTTP 000
+  - Ion TV (576p) | https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8 | HTTP 000
+  - Iqra TV | https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8 | HTTP 000
+  - Islam Channel (576p) [Not 24/7] | https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8 | HTTP 000
+  - ITV2 (360p) | https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8 | HTTP 000
+  - ITV3 (360p) | https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8 | HTTP 000
+  - ITV4 (360p) | https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8 | HTTP 000
+  - Kalsan TV (576p) | https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8 | HTTP 000
+  - KTO (504p) | http://145.239.5.177/354/index.m3u8 | HTTP 403
+  - MBC (1080p) | https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8 | HTTP 574
+  - McLeod's Daughters (1080p) | https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8 | HTTP 403
+  - More4 (360p) | https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8 | HTTP 000
+  - More TV Sci-fi | https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8 | HTTP 404
+  - Most Haunted (1080p) | https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - Mr Bean Animated (1080p) | https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - Mr Bean Live Action (1080p) | https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8 | HTTP 401
+  - Mythbusters (1080p) | https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8 | HTTP 403
+  - NatureTime UK (1080p) | https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8 | HTTP 403
+  - Nickelodeon (United Kingdom) (576p) | http://tvsen7.aynascope.net/nicklodean/index.m3u8 | HTTP 000
+  - Nolly Africa (1080p) | https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8 | HTTP 403
+  - Now 70s (720p) | https://lightningnow70-samsungau.amagi.tv/playlist.m3u8 | HTTP 403
+  - Now 80s (1080p) | https://lightningnow80-samsungau.amagi.tv/playlist.m3u8 | HTTP 403
+  - Planet Fun (1080p) | http://66.102.126.10:8000/play/a02k/index.m3u8 | HTTP 000
+  - Pop Up (1080p) [Geo-blocked] | https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8 | HTTP 403
+  - Scorpion (Germany) | https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8 | HTTP 404
+  - Sky Sports F1 (720p) | https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8 | HTTP 403
+  - Sky Sports NFL (720p) | https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8 | HTTP 403
+  - Talking Pictures TV (576p) | http://92.114.85.72:8000/play/a0la | HTTP 403
+  - That's 70s SD (576p) | http://92.114.85.72:8000/play/a0lc | HTTP 403
+  - That's TV (576p) | http://92.114.85.72:8000/play/a0lb | HTTP 403
+  - Tiny Pop (1080p) | https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8 | HTTP 403
+  - Tiny Pop +1 (576p) | http://92.114.85.72:8000/play/a08p | HTTP 403
+  - Together TV (576p) | http://92.114.85.72:8000/play/a0j8 | HTTP 403
+  - Totalmusic 80s (720p) | https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8 | HTTP 000
+  - Totalmusic 2000s (720p) | https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8 | HTTP 000
+  - Totalmusic (1080p) | https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8 | HTTP 000
+  - Totalmusic Concerts (720p) | https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8 | HTTP 000
+  - Totalmusic Dance (720p) | https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8 | HTTP 000
+  - TV One (576p) | http://92.114.85.72:8000/play/a070 | HTTP 403
+  - TV Warehouse (720p) | https://tvwarehouse.r.worldssl.net/mystream.m3u8 | HTTP 000
+  - U&Alibi (576p) | http://92.114.85.72:8000/play/a0bi | HTTP 403
+  - U&W | http://92.114.85.72:8000/play/a0bj | HTTP 403
+  - YAAAS! (720p) [Geo-blocked] | https://d3knqoaufvjug3.cloudfront.net/yas.m3u8 | HTTP 502

@@ -1,0 +1,26 @@
+Canales caídos - sv
+Total: 39 | Funcionan: 16 | Caídos: 23
+
+  - Arbol de Vida TV (240p) [Not 24/7] | https://yupistream.top:19360/livearbol/livearbol.m3u8 | HTTP 000
+  - Awapa Sports TV (1080p) [Not 24/7] | https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8 | HTTP 400
+  - Canal 4 (El Salvador) (1080p) | http://45.5.118.188:8000/play/a00j/index.m3u8 | HTTP 403
+  - Canal 6 (El Salvador) (720p) | http://45.167.2.101:8000/play/a0qs/index.m3u8 | HTTP 000
+  - Canal 9 La Union (1080p) | http://45.167.2.101:8000/play/a0r5/index.m3u8 | HTTP 000
+  - Canal 15 El Zamorano [Not 24/7] | https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8 | HTTP 000
+  - Canal 65 (1080p) [Not 24/7] | https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8 | HTTP 000
+  - El 15 TV (720p) [Not 24/7] | https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8 | HTTP 000
+  - Elim TV (720p) | https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8 | HTTP 530
+  - GSG TV (720p) | https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8 | HTTP 000
+  - Legislative Assembly of El Salvador (1080p) [Not 24/7] | https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8 | HTTP 000
+  - Mizpa TV (1080p) | http://45.167.2.101:8000/play/a0r7/index.m3u8 | HTTP 000
+  - Morazan TV (720p) | http://45.167.2.138:8000/play/a0o4/index.m3u8 | HTTP 000
+  - SV+ (720p) | http://45.167.2.101:8000/play/a0qx/index.m3u8 | HTTP 000
+  - TCS+ (480p) [Not 24/7] | https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8 | HTTP 000
+  - Tigo Sports (El Salvador) (1080p) | http://45.167.2.101:8000/play/a0pp/index.m3u8 | HTTP 000
+  - Tribuna TV (720p) [Not 24/7] | https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8 | HTTP 000
+  - TV CRET (1080p) | https://radiocret.net:8082/hls/tvcret.m3u8 | HTTP 000
+  - TV Getsemani (720p) | https://serversv.com:8080/hls/tvgetsemani.m3u8 | HTTP 000
+  - TVC Network (720p) [Not 24/7] | https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8 | HTTP 403
+  - TVCa (720p) | https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8 | HTTP 404
+  - TVM El Salvador [Not 24/7] | http://201.247.102.189/tmp_hls/stream/index.m3u8 | HTTP 000
+  - WOW TV (1080p) | https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8 | HTTP 000

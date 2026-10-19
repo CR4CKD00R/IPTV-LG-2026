@@ -1,0 +1,22 @@
+Canales caídos - sk
+Total: 85 | Funcionan: 66 | Caídos: 19
+
+  - AXN White (United States) | https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8 | HTTP 000
+  - Canal+ Action Europe Czechia | http://46.149.191.219:9106/play/a01g | HTTP 000
+  - Canal+ Action Europe Slovakia (720p) | http://151.80.18.177:86/Canal+_Family_HD/index.m3u8 | HTTP 000
+  - LifeTv (1080p) | https://lifetv.mpks.sk/s.m3u8 | HTTP 000
+  - Regio TV (406p) | http://tv.geniusnet.sk:8081/regiotv/pl.m3u8 | HTTP 000
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - TV Brezova (540p) | http://95.105.193.219:88/hls/tvb.m3u8 | HTTP 000
+  - TV DK (486p) [Not 24/7] | http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8 | HTTP 000
+  - TV LocAll (406p) | http://tv.geniusnet.sk:8081/localltv/pl.m3u8 | HTTP 000
+  - TV Lux (Slovakia) (720p) [Not 24/7] | https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8 | HTTP 404
+  - TV Myjava (540p) | http://95.105.193.219:88/hls/tvm.m3u8 | HTTP 000
+  - TV Poprad (1080p) [Not 24/7] | http://213.81.153.221:8080/poprad | HTTP 000
+  - TV Raj (720p) [Not 24/7] | https://ottst05.flexitv.sk/2827-tv-pc.m3u8 | HTTP 403
+  - TV Sen (540p) | http://95.105.193.219:88/hls/tvsen.m3u8 | HTTP 000
+  - TV Severka (576p) [Not 24/7] | http://88.212.7.11/live/test_severka_web_player/playlist.m3u8 | HTTP 503
+  - TV Skalica (540p) | http://95.105.193.219:88/hls/tvs.m3u8 | HTTP 000
+  - TV Stara Tura (540p) | http://95.105.193.219:88/hls/tvst.m3u8 | HTTP 000
+  - TV Vega (576p) [Not 24/7] | http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8 | HTTP 503
+  - VIO TV (480p) | http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8 | HTTP 000

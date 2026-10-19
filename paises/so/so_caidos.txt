@@ -1,0 +1,10 @@
+Canales caídos - so
+Total: 7 | Funcionan: 0 | Caídos: 7
+
+  - Arlaadi TV | https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8 | HTTP 000
+  - Hirshabelle TV (576p) | http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8 | HTTP 000
+  - Puntland TV (720p) | http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8 | HTTP 000
+  - Saab TV (576p) | https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8 | HTTP 000
+  - SBC TV (720p) [Not 24/7] | http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8 | HTTP 000
+  - SNTV Daljir (576p) | https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8 | HTTP 000
+  - Somali National TV (576p) | https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8 | HTTP 000

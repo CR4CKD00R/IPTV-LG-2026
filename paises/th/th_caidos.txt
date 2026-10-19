@@ -1,0 +1,24 @@
+Canales caídos - th
+Total: 70 | Funcionan: 49 | Caídos: 21
+
+  - ALTV (1080p) | https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8 | HTTP 403
+  - Amarin TV | https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8 | HTTP 403
+  - Channel 7 (Thailand) (1080p) | https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8 | HTTP 403
+  - Channel 8 (Thailand) | https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8 | HTTP 403
+  - Dopa Channel | http://dopachannel.truegse.com/live/dopatv03.m3u8 | HTTP 404
+  - Drama Channel (1080p) | https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8 | HTTP 403
+  - ETV (Thailand) (1080p) | http://150.95.66.20:1935/live/livestream/playlist.m3u8 | HTTP 000
+  - GMM 25 (720p) | https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8 | HTTP 403
+  - JKN 18 (1080p) | https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8 | HTTP 403
+  - Mangorn (720p) | http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8 | HTTP 000
+  - Maya Channel | http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8 | HTTP 000
+  - MCOT HD | https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8 | HTTP 403
+  - MONO 29 | https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8 | HTTP 403
+  - One 31 (720p) | https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8 | HTTP 403
+  - Police TV (1080p) | https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8 | HTTP 404
+  - RTM ASEAN | https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8 | HTTP 403
+  - Thaiban 83 (576p) | https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8 | HTTP 403
+  - Thairath TV | https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8 | HTTP 403
+  - TNN16 (720p) | https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8 | HTTP 403
+  - Workpoint TV | https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8 | HTTP 403
+  - Zee Nung (1080p) [Geo-blocked] | https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8 | HTTP 000

@@ -1,0 +1,4 @@
+Canales caídos - sx
+Total: 6 | Funcionan: 5 | Caídos: 1
+
+  - TVCARiB (720p) [Not 24/7] | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8 | HTTP 404

@@ -1,0 +1,8 @@
+Canales caídos - tg
+Total: 11 | Funcionan: 6 | Caídos: 5
+
+  - AC TV (480p) [Not 24/7] | https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8 | HTTP 000
+  - Chandel TV (720p) | https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8 | HTTP 404
+  - Dynamic Gospel TV (480p) [Not 24/7] | https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8 | HTTP 000
+  - SOS Docteur TV (480p) [Not 24/7] | https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8 | HTTP 404
+  - TVT (Togo) (720p) [Not 24/7] | http://69.64.57.208/tvt/playlist.m3u8 | HTTP 000

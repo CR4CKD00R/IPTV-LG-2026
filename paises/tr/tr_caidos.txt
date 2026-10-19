@@ -1,0 +1,55 @@
+Canales caídos - tr
+Total: 182 | Funcionan: 130 | Caídos: 52
+
+  - Al-Rafidain TV (720p) [Not 24/7] | https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8 | HTTP 502
+  - Altas TV (1080p) | https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8 | HTTP 000
+  - ATV Avrupa (576p) | https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8 | HTTP 503
+  - BBC Earth Turkiye | https://nord.ayakkabiparti.lol/bbc/index.m3u8 | HTTP 000
+  - beIN Box Office 1 | https://nord.ayakkabiparti.lol/box1/index.m3u8 | HTTP 000
+  - beIN Box Office 2 | https://nord.ayakkabiparti.lol/box2/index.m3u8 | HTTP 000
+  - beIN Box Office 3 | https://nord.ayakkabiparti.lol/box3/index.m3u8 | HTTP 000
+  - beIN Movies Stars | https://nord.ayakkabiparti.lol/bsaction1/index.m3u8 | HTTP 000
+  - beIN Movies Turk | https://nord.ayakkabiparti.lol/bsturk/index.m3u8 | HTTP 000
+  - Benguturk TV (1080p) | http://185.234.111.229:8000/play/a05u | HTTP 000
+  - Beyaz TV (720p) [Not 24/7] | https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 | HTTP 000
+  - Bloomberg HT (720p) | https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8 | HTTP 403
+  - Bursa TV (720p) [Not 24/7] | https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8 | HTTP 404
+  - Cay TV (720p) | https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8 | HTTP 000
+  - Cekmekoy TV (1080p) | https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8 | HTTP 000
+  - Disney Jr. (Turkiye) (1080p) [Geo-blocked] | https://saran-live.ercdn.net/disneyjunior/index.m3u8 | HTTP 401
+  - ETV Manisa (1080p) [Not 24/7] | https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8 | HTTP 000
+  - Fortuna TV (720p) | https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8 | HTTP 000
+  - Guneydogu TV (720p) | https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8 | HTTP 000
+  - GZT (1080p) | https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8 | HTTP 404
+  - Hunat TV (480p) [Not 24/7] | https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8 | HTTP 000
+  - Icel TV (720p) [Not 24/7] | https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8 | HTTP 000
+  - Kanal 7 (720p) | https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8 | HTTP 000
+  - Kanal 32 (720p) [Not 24/7] | https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8 | HTTP 000
+  - Kanal 33 (720p) [Not 24/7] | https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8 | HTTP 000
+  - Kanal 34 (720p) [Not 24/7] | https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8 | HTTP 000
+  - Kanal Hayat (1080p) | https://tbn02a.ltnschedule.com/hls/nx21i.m3u8 | HTTP 000
+  - Line TV (720p) [Not 24/7] | https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8 | HTTP 000
+  - MovieSmart Turk (576p) | http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174 | HTTP 000
+  - MTurk TV (1080p) | https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8 | HTTP 000
+  - National Geographic (Turkiye) | https://nord.ayakkabiparti.lol/natgeo/index.m3u8 | HTTP 000
+  - National Geographic Wild (Turkiye) | https://nord.ayakkabiparti.lol/natgeowild/index.m3u8 | HTTP 000
+  - Natural TV (720p) [Not 24/7] | http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8 | HTTP 000
+  - On4 TV (1080p) | https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8 | HTTP 000
+  - Qaf TV (1080p) | https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8 | HTTP 204
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - S Sport 2 (720p) | https://corestream.siteyaptim.live/s-sport2/index.m3u8 | HTTP 000
+  - S Sport (720p) | https://corestream.siteyaptim.live/s-sport/index.m3u8 | HTTP 000
+  - Show Turk (1080p) | https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8 | HTTP 404
+  - Tele 1 (1080p) | https://tele1-live.ercdn.net/tele1/tele1.m3u8 | HTTP 404
+  - TJK TV 2 (1080p) [Not 24/7] | https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8 | HTTP 401
+  - TRT 2 (1440p) [Geo-blocked] | https://tv-trt2.medya.trt.com.tr/master.m3u8 | HTTP 403
+  - TRT Belgesel (1080p) | http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8 | HTTP 000
+  - TRT Spor (720p) | https://corestream.siteyaptim.live/trt-spor/index.m3u8 | HTTP 000
+  - TurkHaber TV (720p) | https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 | HTTP 000
+  - TV 1 (720p) | https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8 | HTTP 000
+  - TV 41 (720p) [Not 24/7] | http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8 | HTTP 000
+  - TV 42 | https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8 | HTTP 000
+  - TV 52 (720p) [Not 24/7] | https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8 | HTTP 000
+  - TVNET (Turkiye) (1080p) | https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8 | HTTP 404
+  - Ulke TV | http://217.174.229.138:8000/play/a0el | HTTP 403
+  - Viasat History (Turkiye) (720p) | https://nord.ayakkabiparti.lol/viasathistory/index.m3u8 | HTTP 000
