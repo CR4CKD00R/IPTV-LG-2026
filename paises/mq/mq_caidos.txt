@@ -1,0 +1,4 @@
+Canales caídos - mq
+Total: 6 | Funcionan: 5 | Caídos: 1
+
+  - ViaATV (1080p) [Geo-blocked] | https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8 | HTTP 000

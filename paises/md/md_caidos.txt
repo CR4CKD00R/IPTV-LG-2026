@@ -1,0 +1,9 @@
+Canales caídos - md
+Total: 26 | Funcionan: 20 | Caídos: 6
+
+  - Disney Channel (Bulgaria) | http://213.91.179.28:8000/play/a059 | HTTP 404
+  - Disney Channel (Romania) | https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8 | HTTP 403
+  - Disney Junior (Romania) | https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8 | HTTP 000
+  - PRO TV Chisinau (576p) | http://178.76.68.60:7442/15/mpegts | HTTP 000
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - TVR Moldova (720p) | https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8 | HTTP 000

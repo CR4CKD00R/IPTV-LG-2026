@@ -1,0 +1,4 @@
+Canales caídos - pf
+Total: 2 | Funcionan: 1 | Caídos: 1
+
+  - TNTV (1080p) | https://tntv-samsung-fr.amagi.tv/playlist.m3u8 | HTTP 000

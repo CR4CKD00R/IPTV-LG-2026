@@ -1,0 +1,5 @@
+Canales caídos - mz
+Total: 5 | Funcionan: 3 | Caídos: 2
+
+  - TV Vitoria (720p) | https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8 | HTTP 404
+  - TVM (Mozambique) (480p) | http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8 | HTTP 000

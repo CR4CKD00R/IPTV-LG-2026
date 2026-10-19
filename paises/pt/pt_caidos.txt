@@ -1,0 +1,28 @@
+Canales caídos - pt
+Total: 64 | Funcionan: 37 | Caídos: 25
+
+  - AXN (Portugal) (1080p) | http://188.115.15.121:8000/play/a02z | HTTP 000
+  - AXN White (United States) Portugal (576p) | http://188.115.15.121:8000/play/a01u | HTTP 000
+  - Disney Channel (Portugal) (1080p) | http://151.80.18.177:86/Disney_Channel_HD/index.m3u8 | HTTP 000
+  - Famatv (1080p) [Not 24/7] | https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8 | HTTP 500
+  - KTO (504p) | http://145.239.5.177/354/index.m3u8 | HTTP 403
+  - MCM Pop (580p) | http://188.115.15.121:8000/play/a014 | HTTP 000
+  - NPC Radio e TV (720p) | https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8 | HTTP 403
+  - RTP 1 (720p) [Not 24/7] | https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8 | HTTP 204
+  - RTP 2 (720p) [Not 24/7] | https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8 | HTTP 204
+  - RTP Memoria (504p) [Not 24/7] | https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8 | HTTP 204
+  - SIC (1080p) [Geo-blocked] | https://sic.live.impresa.pt/sic.m3u8 | HTTP 403
+  - SIC Mulher | http://zntx.dyndns.org:8085/hls/sicm.m3u8 | HTTP 000
+  - SIC Noticias (1080p) [Geo-blocked] | https://sicnot.live.impresa.pt/sicnot.m3u8 | HTTP 403
+  - SIC Radical | http://znty.dyndns.org:5010/hls/sicr.m3u8 | HTTP 000
+  - Sport TV1 | http://znty.dyndns.org:5010/hls/stv1.m3u8 | HTTP 000
+  - Sport TV2 | http://znty.dyndns.org:5010/hls/stv2.m3u8 | HTTP 000
+  - Sport TV5 | http://znty.dyndns.org:5010/hls/stv5.m3u8 | HTTP 000
+  - Sport TV6 | http://zntx.dyndns.org:8085/hls/stv6.m3u8 | HTTP 000
+  - Sport TV7 | http://zntx.dyndns.org:8085/hls/stv7.m3u8 | HTTP 000
+  - Sport TV+ | http://znty.dyndns.org:5010/hls/sportv+.m3u8 | HTTP 000
+  - Star Channel (Portugal) | http://znty.dyndns.org:5010/hls/fox.m3u8 | HTTP 000
+  - Star Comedy | http://znty.dyndns.org:5010/hls/foxcomedy.m3u8 | HTTP 000
+  - Star Crime (Portugal) | http://znty.dyndns.org:5010/hls/foxcrime.m3u8 | HTTP 000
+  - Star Life (Portugal) | http://znty.dyndns.org:5010/hls/foxlife.m3u8 | HTTP 000
+  - Star Movies (Portugal) | http://znty.dyndns.org:5010/hls/foxm.m3u8 | HTTP 000

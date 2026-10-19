@@ -1,0 +1,20 @@
+Canales caídos - mk
+Total: 31 | Funcionan: 14 | Caídos: 17
+
+  - Alsat [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8 | HTTP 000
+  - Jazz TV (1080p) [Not 24/7] | https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8 | HTTP 404
+  - Kanal 5 (360p) | https://s2.teve.mk/tvstanici/2/playlist.m3u8 | HTTP 000
+  - M-Net HD (720p) | http://ares.mnet.mk/hls/mnet.m3u8 | HTTP 000
+  - M-Net Info | https://live.mnet.mk/hls/mnet-info.m3u8 | HTTP 500
+  - M-Net Kids (720p) | http://ares.mnet.mk/hls/mnet-kids.m3u8 | HTTP 000
+  - M-Net Sport (720p) | http://ares.mnet.mk/hls/mnet-sport.m3u8 | HTTP 000
+  - MRT 2 [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8 | HTTP 000
+  - MRT Sobraniski kanal [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8 | HTTP 000
+  - MTM [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8 | HTTP 000
+  - Rock TV (North Macedonia) (1080p) [Not 24/7] | https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8 | HTTP 404
+  - Sitel (480p) | http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8 | HTTP 000
+  - Star Plus Televizija (1080p) [Not 24/7] | https://live.muzickatv.mk/live/StarMusic2.m3u8 | HTTP 000
+  - Sutel TV [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8 | HTTP 000
+  - TV21 [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8 | HTTP 000
+  - TV ERA [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8 | HTTP 000
+  - TV Shenja [Geo-blocked] | https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8 | HTTP 000

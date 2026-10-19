@@ -1,0 +1,9 @@
+Canales caídos - no
+Total: 117 | Funcionan: 111 | Caídos: 6
+
+  - Canal Motor (720p) | https://digicom.hls.iptvdc.com/canalmotor/index.m3u8 | HTTP 000
+  - NRK1 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8 | HTTP 403
+  - NRK2 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8 | HTTP 403
+  - NRK3 (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8 | HTTP 403
+  - NRK Super (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8 | HTTP 403
+  - NRK Tegnsprak (1080i) [Geo-blocked] | https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8 | HTTP 403

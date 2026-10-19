@@ -1,0 +1,7 @@
+Canales caídos - lu
+Total: 16 | Funcionan: 12 | Caídos: 4
+
+  - LCI HD (1080p) | http://145.239.5.177/368/index.m3u8 | HTTP 403
+  - Luxe TV (1080p) | http://103.154.3.101:5001/live/1736.m3u8 | HTTP 000
+  - RTL9 (720p) | http://145.239.5.177/308/index.m3u8 | HTTP 403
+  - RTL-TVI (1080p) [Not 24/7] | https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8 | HTTP 400

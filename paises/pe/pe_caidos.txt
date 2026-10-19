@@ -1,0 +1,40 @@
+Canales caídos - pe
+Total: 206 | Funcionan: 167 | Caídos: 37
+
+  - Altura TV (720p) | https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8 | HTTP 404
+  - Amazonia TV | https://servilive.com:3199/live/amazoniatvlive.m3u8 | HTTP 404
+  - America Television (1080p) | http://45.171.108.253:8888/AMERICA/index.m3u8 | HTTP 404
+  - Andina RTV (720p) | https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8 | HTTP 404
+  - Antares Television | https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8 | HTTP 404
+  - Arpegio TV (720p) | https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8 | HTTP 404
+  - Cajamarca TV (720p) | https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8 | HTTP 404
+  - Canal 21 Huancayo (720p) | https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8 | HTTP 000
+  - Canal N (1080p) | http://187.102.208.209:8000/play/a0az/index.m3u8 | HTTP 403
+  - Controversia TV (720p) [Not 24/7] | https://live.obslivestream.com/controversiatv/index.m3u8 | HTTP 404
+  - CVN TV | https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8 | HTTP 404
+  - Diaspora TV | https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8 | HTTP 404
+  - DSports (1080p) | http://38.187.7.252:8000/play/a03d/index.m3u8 | HTTP 000
+  - ECO Television (720p) | https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8 | HTTP 404
+  - Evolucion TV (576p) | https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8 | HTTP 403
+  - Folklore TV (720p) | https://play.folkloretv.pe/StreamSD/index.m3u8 | HTTP 000
+  - Frecuencia Amazonica | https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8 | HTTP 000
+  - Galactica TV | https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8 | HTTP 404
+  - Huacho Peru TV | https://tv.huachotv.com/stream.m3u8 | HTTP 530
+  - JN 19 (720p) | http://187.102.210.46/JN19/index.m3u8 | HTTP 404
+  - Kora TV | https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8 | HTTP 404
+  - L1 (1080p) | http://45.4.1.201:8000/play/a1ai/index.m3u8 | HTTP 000
+  - LotPlus TV (720p) | https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8 | HTTP 502
+  - Movistar Deportes (1080p) | http://45.4.1.201:8000/play/a13e/index.m3u8 | HTTP 000
+  - Movistar Plus (1080p) | http://200.62.239.170:830/play/a08z/index.m3u8 | HTTP 000
+  - Neo TV (Peru) (720p) | http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8 | HTTP 404
+  - Nickelodeon Latin America (1080p) | http://15.204.246.24:8080/NickHD/index.m3u8 | HTTP 404
+  - Prattel TV (720p) | https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8 | HTTP 404
+  - Radio San Borja TV (1080p) | https://stream.mediacorp.pe/srt/3/playlist.m3u8 | HTTP 404
+  - Riku TV (1080p) | https://amixtv.com:8081/rikutv/index.m3u8 | HTTP 000
+  - Senal Peru TV (404p) [Not 24/7] | https://livestream.perucast.com/hls/stream.m3u8 | HTTP 404
+  - SolTV (Peru) | https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8 | HTTP 404
+  - Tevesur (720p) | https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8 | HTTP 404
+  - TV Kaliente (720p) | https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8 | HTTP 404
+  - Uchu TV (720p) | https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8 | HTTP 404
+  - WOW TV (1080p) | https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8 | HTTP 000
+  - Zeleve TV (720p) | https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8 | HTTP 404

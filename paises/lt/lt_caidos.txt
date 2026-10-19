@@ -1,0 +1,7 @@
+Canales caídos - lt
+Total: 26 | Funcionan: 22 | Caídos: 4
+
+  - FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked] | https://s70378.cdn.ngenix.net/filmbox/index.m3u8 | HTTP 403
+  - KidZone Max SD (1080p) [Geo-blocked] | https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd | HTTP 403
+  - RTG int. | http://213.91.179.28:8000/play/a0bw | HTTP 404
+  - Viasat Kino Action (576p) | http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8 | HTTP 404

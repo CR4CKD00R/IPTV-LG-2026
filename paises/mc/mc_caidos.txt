@@ -1,0 +1,6 @@
+Canales caídos - mc
+Total: 6 | Funcionan: 3 | Caídos: 3
+
+  - MCM Pop (580p) | http://188.115.15.121:8000/play/a014 | HTTP 000
+  - RTL9 (720p) | http://145.239.5.177/308/index.m3u8 | HTTP 403
+  - TMC (1080p) | http://151.80.18.177:86/TMC/index.m3u8 | HTTP 000

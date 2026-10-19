@@ -1,0 +1,39 @@
+Canales caídos - ro
+Total: 189 | Funcionan: 148 | Caídos: 36
+
+  - AMC Europe Romania | https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8 | HTTP 000
+  - Angelus TV (1080p) | https://video.angelustv.ro/hls/angelustv.m3u8 | HTTP 000
+  - Arges TV (720p) | https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8 | HTTP 404
+  - AXN Black (United States) Romania | https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8 | HTTP 000
+  - AXN White (United States) | https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8 | HTTP 000
+  - BBC Earth Romania | https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8 | HTTP 000
+  - BBC Earth Romania HD (576p) | http://hls127.freeott.top:8080/BG_The_World/video.m3u8 | HTTP 000
+  - BBC First Romania | https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8 | HTTP 000
+  - Comedy Central (Romania) | https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8 | HTTP 000
+  - Digi Sport 2 HD (1080i) | https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8 | HTTP 404
+  - Disney Channel (Bulgaria) | http://213.91.179.28:8000/play/a059 | HTTP 404
+  - Disney Channel (Romania) | https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8 | HTTP 403
+  - Disney Junior (Romania) | https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8 | HTTP 000
+  - Film Cafe Romania | https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8 | HTTP 000
+  - Film Now | https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8 | HTTP 000
+  - Film Now HD (1080i) | https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8 | HTTP 404
+  - FILMBOX+ Emotion Romania | https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8 | HTTP 000
+  - Hello Taste | https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8 | HTTP 410
+  - Hunedoara 1 (480p) [Not 24/7] | https://netstreaming.eu/hd1.m3u8 | HTTP 404
+  - IasiTV Life (1080p) [Not 24/7] | https://tv.streambox.ro/hls/itv/index.m3u8 | HTTP 000
+  - Kapital TV (1080p) | https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8 | HTTP 404
+  - Minimax (Romania) | https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8 | HTTP 000
+  - National Geographic (Romania) | https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8 | HTTP 000
+  - Nickelodeon (Romania) | https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8 | HTTP 000
+  - Nicktoons (Romania) | https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8 | HTTP 000
+  - Radio Romania 3Net (480p) | https://media.3netmedia.ro/hls/stream.m3u8 | HTTP 000
+  - Radio Romania Antena Satelor (720p) [Not 24/7] | https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8 | HTTP 404
+  - Radio Romania Oltenia-Craiova (576p) [Not 24/7] | https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8 | HTTP 404
+  - Radio Romania Resita (576p) [Not 24/7] | https://stream3.srr.ro/RadioResita/live/playlist.m3u8 | HTTP 404
+  - Timeless Dizi Channel (Romania) | https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8 | HTTP 000
+  - TV Paprika (Romania) | https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8 | HTTP 403
+  - TV SUD (1080p) [Geo-blocked] | https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8 | HTTP 403
+  - Viasat Epic Drama Romania | https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8 | HTTP 000
+  - Viasat Explore (Romania) | https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8 | HTTP 000
+  - Viasat History (Romania) | https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8 | HTTP 000
+  - Viasat Nature (Romania) | https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8 | HTTP 000

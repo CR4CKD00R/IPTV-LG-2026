@@ -1,0 +1,54 @@
+Canales caídos - nl
+Total: 175 | Funcionan: 124 | Caídos: 51
+
+  - BBC NL (360p) | https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8 | HTTP 000
+  - BR6 TV (720p) | https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8 | HTTP 000
+  - Canal+ Action Europe (360p) | https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8 | HTTP 000
+  - Den Haag TV (1080p) [Not 24/7] | http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8 | HTTP 000
+  - Discovery Channel (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8 | HTTP 000
+  - Disney Channel (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8 | HTTP 000
+  - ESPN 2 (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8 | HTTP 000
+  - ESPN 3 (Netherlands) | https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8 | HTTP 000
+  - ESPN 4 (Netherlands) | https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8 | HTTP 000
+  - ESPN (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8 | HTTP 000
+  - Feel Good TV (720p) [Not 24/7] | https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8 | HTTP 000
+  - Film1 Action | http://86.87.15.10:8008/play/a01l/index.m3u8 | HTTP 403
+  - Film1 Drama | http://86.87.15.10:8008/play/a01k/index.m3u8 | HTTP 403
+  - Film1 Family | http://86.87.15.10:8008/play/a01m/index.m3u8 | HTTP 403
+  - Film1 Premiere | http://86.87.15.10:8008/play/a01n/index.m3u8 | HTTP 403
+  - FILMBOX+ One Nederland | http://46.149.191.219:9100/play/a015 | HTTP 000
+  - History (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8 | HTTP 000
+  - HTR TV (720p) | https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8 | HTTP 404
+  - Ideaal TV (480p) [Not 24/7] | https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8 | HTTP 404
+  - KTO (504p) | http://145.239.5.177/354/index.m3u8 | HTTP 403
+  - LINQ TV (480p) | https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8 | HTTP 404
+  - LOE TV (720p) | https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8 | HTTP 000
+  - Lokale Omroep Zeewolde (720p) | https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8 | HTTP 000
+  - Meer TV (720p) [Not 24/7] | https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8 | HTTP 000
+  - ML5 TV (480p) | https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8 | HTTP 404
+  - National Geographic (Netherlands) (360p) | https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8 | HTTP 000
+  - National Geographic (Netherlands) HD (1080p) | http://46.32.176.50/NationalGeographicHD/index.m3u8 | HTTP 000
+  - NPO 1 (360p) | https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8 | HTTP 000
+  - NPO 1 HD (720p) [Geo-blocked] | https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8 | HTTP 404
+  - NPO 2 HD (720p) [Geo-blocked] | https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8 | HTTP 404
+  - NPO 3 HD (720p) [Geo-blocked] | https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8 | HTTP 404
+  - Omroep Centraal TV (480p) [Not 24/7] | https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8 | HTTP 404
+  - Omroep Hulst (720p) [Not 24/7] | https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8 | HTTP 404
+  - Omroep Meierijstad (480p) | https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8 | HTTP 404
+  - Omroep Ons West Brabant (480p) | https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8 | HTTP 404
+  - Radio Stad den Haag (720p) | https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8 | HTTP 523
+  - Rararadio (720p) | https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8 | HTTP 000
+  - Regio TV De Bilt (720p) | https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8 | HTTP 000
+  - Regio TV Nieuws (1080p) [Not 24/7] | http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8 | HTTP 404
+  - RTV Arnhem TV (480p) [Not 24/7] | https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8 | HTTP 404
+  - RTV GO! (1080p) [Not 24/7] | http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8 | HTTP 000
+  - RTV NOF Achtkarspelen & Tytsjerksteradiel (720p) | https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8 | HTTP 000
+  - RTV Noordoost Friesland (720p) [Not 24/7] | https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8 | HTTP 000
+  - Siris TV (720p) | https://cdn.streammy.events/siris/playout/playlist.m3u8 | HTTP 000
+  - Slotstad TV (720p) | https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8 | HTTP 000
+  - STAR Channel (Netherlands) (1080p) | https://lb.iptvnetwork.net/ls28/10012/playlist.m3u8 | HTTP 000
+  - Tipik (720p) | http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg | HTTP 000
+  - TMF (1080p) | https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8 | HTTP 404
+  - Tweede Kamer: Tilanuskamer (1080p) [Not 24/7] | https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8 | HTTP 000
+  - Veronica / Disney Jr. (360p) | https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8 | HTTP 000
+  - XON (480p) [Not 24/7] | http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8 | HTTP 404

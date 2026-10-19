@@ -1,0 +1,14 @@
+Canales caídos - ni
+Total: 19 | Funcionan: 8 | Caídos: 11
+
+  - Canal 6 (Nicaragua) (480p) [Not 24/7] | http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8 | HTTP 404
+  - Canal 7 Boaco (1080p) [Not 24/7] | https://cdn.amixtv.com/c7boaco/index.m3u8 | HTTP 000
+  - Canal 15 (1080p) [Not 24/7] | https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8 | HTTP 404
+  - Canal Cvision (720p) [Not 24/7] | https://stream.cvision.live/cvision_stream.m3u8 | HTTP 000
+  - CDNN 23 (1080p) [Not 24/7] | https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8 | HTTP 404
+  - JBN (720p) [Not 24/7] | https://hdbox.chunklistv.com/live?stream=jbn39 | HTTP 502
+  - MTV Chontales (720p) [Not 24/7] | https://altair.hostingnica.net/hls/mtv_stream/index.m3u8 | HTTP 000
+  - Radio Vision de Dios Stereo (720p) [Not 24/7] | https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8 | HTTP 404
+  - TN8 (1080p) | https://streamingcws30.com/tn8/videotn8/playlist.m3u8 | HTTP 404
+  - Viva TV [Not 24/7] | https://cdn.amixtv.com/vivatv/index.m3u8 | HTTP 000
+  - Vos TV (Nicaragua) (720p) [Not 24/7] | http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8 | HTTP 000

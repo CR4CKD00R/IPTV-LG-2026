@@ -1,0 +1,6 @@
+Canales caídos - ne
+Total: 6 | Funcionan: 3 | Caídos: 3
+
+  - Africa TV3 (720p) [Not 24/7] | http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8 | HTTP 404
+  - Dounia TV | https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8 | HTTP 403
+  - Saraounia TV | https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8 | HTTP 403

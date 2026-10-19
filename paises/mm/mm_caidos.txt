@@ -1,0 +1,8 @@
+Canales caídos - mm
+Total: 18 | Funcionan: 13 | Caídos: 5
+
+  - 5 Plus (720p) | https://mmtvs.exliatycl.online/5plus/stream.m3u8 | HTTP 530
+  - Channel 9 (Myanmar) (720p) | https://mmtvs.exliatycl.online/channel9/stream.m3u8 | HTTP 530
+  - Channel K (720p) | https://mmtvs.exliatycl.online/channelk/stream.m3u8 | HTTP 530
+  - M Entertainment Channel (720p) | https://mmtvs.exliatycl.online/mchannel/stream.m3u8 | HTTP 530
+  - RTM ASEAN | https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8 | HTTP 403

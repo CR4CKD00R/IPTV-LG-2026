@@ -1,0 +1,9 @@
+Canales caídos - ps
+Total: 19 | Funcionan: 13 | Caídos: 6
+
+  - Kolalnas TV | https://htvint.mada.ps/kolalnas/index.m3u8 | HTTP 403
+  - Musawa Channel (1080p) [Not 24/7] | https://pbc.furrera.ps/musawahd/index.m3u8 | HTTP 000
+  - Nablus TV (720p) [Not 24/7] | http://htvmada.mada.ps:8888/nabluslive/index.m3u8 | HTTP 404
+  - Palestine Edu (1080p) | https://pbc.furrera.ps/PalestineEDU/index.m3u8 | HTTP 000
+  - Palestine Mubasher (1080p) | https://pbc.furrera.ps/palestinelivehd/index.m3u8 | HTTP 000
+  - Palestine Satellite Channel (1080p) | https://pbc.furrera.ps/palestinehd/index.m3u8 | HTTP 000
